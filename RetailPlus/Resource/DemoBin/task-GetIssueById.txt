@@ -1,0 +1,22 @@
+{
+    "Sign": null,
+    "Code": 0,
+    "Desc": "",
+    "Data": {
+        "IssueGid": "8090CAB3-4C50-4F8E-927A-049F10083C63",
+        "Title": "www",
+        "IssueDesc": "qqq",
+        "X": 0,
+        "Y": 0,
+        "BlueprintId": "00000000-0000-0000-0000-000000000000",
+        "Blueprints": [
+        {
+            "Id": "0fd097ea-5481-4c3a-bc4c-514ae785ac29",
+            "StoreId": "bf60edbd-e1e1-4c37-951f-be0c83043534",
+            "Name": "Blueprint_635232577555515741",
+            "Url": "store/Blueprint1.jpg"
+        }
+        ],
+        "IssueImgs": []
+    }
+}

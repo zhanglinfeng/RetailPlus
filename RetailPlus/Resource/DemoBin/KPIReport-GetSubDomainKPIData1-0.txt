@@ -1,0 +1,37 @@
+{
+    "Sign": null,
+    "Code": 0,
+    "Desc": "success",
+    "Data": [
+        {
+            "DomainID": "1-1",
+            "DomainName": "华东区",
+            "Traffic": 323,
+            "TraQty": 70,
+            "ProQty": 141,
+            "Amount": 82107,
+            "IsFavorite": false,
+            "HasChild":1
+        },
+        {
+            "DomainID": "1-2",
+            "DomainName": "华南区",
+            "Traffic": 273,
+            "TraQty": 90,
+            "ProQty": 100,
+            "Amount": 89757,
+            "IsFavorite": false,
+            "HasChild":1
+        },
+        {
+            "DomainID": "1-3",
+            "DomainName": "华北区",
+            "Traffic": 288,
+            "TraQty": 92,
+            "ProQty": 100,
+            "Amount": 60000,
+            "IsFavorite": false,
+            "HasChild":1
+        }
+    ]
+}

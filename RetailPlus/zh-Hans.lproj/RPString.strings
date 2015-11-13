@@ -1,0 +1,662 @@
+/* 
+  NEWString.strings
+  RetailPlus
+
+  Created by zhanglinfeng on 14-5-13.
+  Copyright (c) 2014年 lin dong. All rights reserved.
+*/
+/*****************************UI*********************************/
+//System
+"KPI LIVE"="KPI中心";
+"DOCUMENT LIVE" = "文档中心";
+"TASK LIVE" = "任务中心";
+
+//Menu
+"Management" = "管理工具";
+"Consulting"="管理咨询";
+"Customer" = "客户管理";
+"Operation"="日常运营";
+"Training"="培训发展";
+
+
+
+"m-Courtesy Call" = "问候回访";
+"m-Daily Log" = "交接本";
+"m-Maintenance"="店铺报修";
+"m-Code Query"="编码查询";
+"m-Boutique Visit" = "零售巡店";
+"m-KPI Data Entry"="KPI管理";
+"m-Handover"="项目验收";
+"m-Inspection"="店铺巡检";
+"m-Live Video" = "视频直播";
+"m-Folder"="公共文件";
+"m-ConfCall"="电话会议";
+"m-Visual Merchandising"="视觉陈列";
+"m-RetailConsult"="零售咨询";
+"m-DailyStock"="点数本";
+"m-E-Learning"="在线培训";
+
+//Title
+"ABOUT RETAIL PLUS" = "关于\r\nRETAIL PLUS";
+"BIND EMAIL" = "绑定邮箱";
+"CHANGE EMAIL BINDING" = "修改绑定邮箱";
+"ACCOUNT SECURITY" = "账户安全";
+"LOGIN PROTECTION"="登录保护";
+"LOGIN AUTOMATICALLY"="自动登录";
+"ACCOUNT MANAGEMENT" = "账户设定";
+"CHANGE PASSWORD" = "修改密码";
+"INTERNAL CONTACTS" = "内部联系人";
+"BOUTIQUE VISIT"="零售巡店";
+"CACHE MANAGEMENT"="缓存管理";
+"SECURITY VERIFICATION" = "安全验证";
+"QR CODE QUERY"="编码查询";
+"COLLEAGUE CARD" = "员工卡";
+"COURTESY CALL"="问候回访";
+"CLIENT CARD"="客户卡";
+"CLIENT PROFILE"="客户资料";
+"PURCHASE RECORD"="购买记录";
+"DAILY LOG"="交接本";
+"PROJECT INSPECTION"="店铺巡检";
+"TRAINING COURSEWARE"="公共文件";
+
+"SECURITY VERIFYING" = "安全验证";
+"PERSONAL PROFILE" = "个人信息";
+"USER PROFILE"="个人信息";
+"LANGUAGE SETTING" = "多语言设定";
+"FEEDBACK" = "反馈";
+"EDIT NAME" = "修改名称";
+"FORWARD DOCUMENT" = "转发文档";
+"KPI DATA INPUT" = "KPI数据录入";
+"CONSTRUCTION VISIT" = "工程巡店";
+"BOUTIQUE MAINTENANCE" = "店铺报修";
+"BOUTIQUE HANDOVER" = "项目验收";
+"INVITE NEW COLLEAGUE" = "邀请用户";
+"NEW CUSTOMER" = "新增客户";
+"STORE CARD" = "店铺卡";
+"PROFILE" = "信息";
+"SIGN UP" = "注册";
+"LIVE VIDEO"="视频直播";
+"DATE\nSETTING"="日期设置";
+"SPECIFY\nRANGE"="指定范围";
+"STORE PROFILE EDIT" = "店铺信息修改";
+"INFOMATION CENTER"="信息中心";
+"KPI MANAGEMENT"="KPI管理";
+"CONFERENCE CALL"="电话会议";
+"VISUAL MERCHANDISING"="视觉陈列";
+"RETAIL CONSULTING"="零售咨询";
+"DAILY STOCK"="点数本";
+"E-LEARNING"="在线培训";
+"TASK INFORMATION"="任务信息";
+//问候回访
+"Select customer"="选择客户";
+"Select call purpose"="选择回访目的";
+"There is NO call record in this store yet..."="目前没有回访记录";
+
+"PURPOSE ANALYSIS"="回访目的分析";
+"CALLER ANALYSIS"="回访者分析";
+"CUSTOMER ANALYSIS"="客户分析";
+
+
+"PLAN TO FINISH IN"="计划完成时间";
+"ACTUAL FINISH TIME"="实际完成时间";
+"START TIME"="开始时间";
+"PLAN TIME"="计划时间";
+"REMARKS"="备注";
+"CALL PURPOSE"="回访目的";
+"MAKE   PLAN"="制作计划";
+"CHECK   PLAN"="查看计划";
+"NO        PLAN"="无计划";
+"CALL GUIDE"="回访流程";
+
+//编码查询
+"Align the QR Code within the frame to scan"="将二维码/条码放入框内开始扫描";
+
+//登录
+"SEND" = "发送";
+"GET CODE"= "获取验证码";
+"SEND AGAIN"="重新获取";
+//零售巡店
+"All Catagory" = "所有分类";
+"Report Delivering"="报告提供";
+"CHECK:"="标记为：";
+"NO FLOOR PLAN UPLOADED"="没有上传平面图";
+"New tasks"="新任务";
+"Duplicated from issues"="从问题中复制";
+"New task"="新任务";
+"Please select performer"="请选择执行人";
+"Please select deadline"="请选择截止时间";
+"Confirm to DELETE the task?"="确定要删除任务？";
+//KPI中心
+"The Same Day in Last Week"="上周的同一天";
+"The Same Day in Last Month"="上月的同一天";
+"The Same Day in Last Year"="去年的同一天";
+"Daily Average in Last Week"="上周日平均值";
+"Daily Average in Last Month"="上月日平均值";
+"Daily Average in Last Year"="去年日平均值";
+"Last Week"="上周";
+"The Same Week in Last Year"="去年的同一周";
+"Weekly Average in Last Year"="去年的周平均值";
+"Last Month"="上月";
+"The Same Month in Last Year"="去年的同一月";
+"Monthly Average in Last Year"="去年的月平均值";
+"Last Season"="上季";
+"The Same Season in Last Year"="去年的同一季";
+"Seasonly Average in Last Year"="去年季平均值";
+"Last Year"="去年";
+"Annual Average in History"="历史年平均值";
+
+"Traffic"="客流";
+"Conversion Rate"="客流转化率(%)";
+"TraQty"="销售笔数";
+"ProQty"="商品数量";
+"Amount"="销售总额";
+"Tendency Chart"="趋势图";
+"Compare Chart"="比较图";
+"Refresh"="刷新";
+"Zoom Out"="缩小";
+//KPI数据录入
+"Record by hour"="按小时记录";
+"Record by day"="按日记录";
+"MODE"="模式";
+//文档中心
+"Selected Document" = "选中的文档";
+"Loading document list"="正在加载文档列表";
+//项目验收
+"BAD" = "差";
+"NORMAL" = "中";
+"GOOD" = "好";
+"GREAT" = "很好";
+"EXCELLENT" = "非常好";
+//交接本
+"The search result is empty"="搜索结果为空";
+"Have read"="已阅读";
+"Today"="今天";
+"You want to..."="您想要...";
+"Mark as \"Read\""="标记为\"已读\"";
+"Make comments"="发表评论";
+"Hide comments"="隐藏评论";
+"HANDOVER LOG BOOK"="交接本";
+"The theme cannot be empty"="主题不能为空";
+"The title or content cannot be empty"="标题或内容不能为空";
+"The title or content is too long"="标题或内容长度超出限制";
+"The comment cannot be empty"="评论内容不能为空";
+"The comment is too long"="评论内容长度超出限制";
+"Current store only"="仅当前店铺";
+"All available store"="所有可操作店铺";
+"All available stores"="所有可操作店铺";
+"ALL STORES"="所有店铺";
+"Title"="标题";
+"Text"="正文";
+"THEME CATEGORIES"="主题分类";
+"CATEGORIES"="分类";
+"All Theme"="所有主题";
+"Other"="其他";
+
+//店铺报修
+"Maintenance Application Created" = "店铺报修申请已创建";
+"other" = "其他";
+"Store Contact"="店铺联系人";
+"Current data will be erased!\r\nConfirm to exit maintenance?" = "是否离开报修申请 并保存当前进度?";
+"This store dose not have any maintenance vendor"="该店铺没有指定维修供应商";
+//消息中心
+"Now"="现在";
+"hour ago"="小时之前";
+"min ago"="分钟之前";
+"sec ago"="秒之前";
+"Message"="消息";
+"Reports"="报告";
+"Tasks"="任务";
+
+"Business"="业务管理";
+"Environment"="店铺管理";
+
+"Hold to talk"="按住开始录音";
+"Move up to cancel"="手指上滑，取消发送";
+"Release to cancel"="取消发送";
+"Delete the record?"="是否删除录音";
+"Yes"="确定";
+"No"="取消";
+"Converting..."="转码中...";
+
+
+//点数本
+"CLOSE COUNTING"="点数结算";
+"CURRENT STOCK"="当前库存";
+//e-learning
+"UPLOAD ALL"="全部上传";
+"1 VALID ANSWER"="单选题";
+"MULTIPLE ANSWER"="多选题";
+"Test result to be uploaded"="份试卷尚未上传";
+"Course #"="课程编号";
+"Courseware #"="课件编号";
+
+//视觉陈列
+"PENDING"="待审核";
+"REJECT"="不通过";
+"PASS"="通过";
+/*****************************ERROR*********************************/
+//System很多地方通用
+"failure"="失败";
+"Submit Success" = "提交成功";
+"Submit Failed!\r\n Add to local submit array" = "提交失败!\r\n 已被添加到本地提交队列";
+"Submit Failed" = "提交失败";
+"Quit Success"="退出成功";
+"Quit Error"="退出失败";
+
+"Successfully deleted"="删除成功";
+"Delete failed"="删除失败";
+
+"The password is too short,please re-setting"="密码过短,请重新设置";
+"The password is too long,please re-setting"="密码过长,请重新设置";
+"There is a risk to use current password,please re-setting"="您设置的密码存在安全风险，请重新设置";
+"The password cannot be same as username,please re-setting"="密码不能与用户名相同，请重新设置";
+"Old password can't be empty"="旧密码不能为空";
+
+"Verify Error" = "验证失败";
+"Temporarily no data"="暂时没有数据";
+"Saved"="已保存";
+
+//文档中心
+"Forwarding failure!"="转发失败！";
+//通讯录
+"Invite Error"="邀请错误";
+"Invite Success"="邀请成功";
+"Show which tag only?"="只显示哪个标签?";
+"(No limitation)"="(不限)";
+
+"Reset succesfully"="重置成功";
+"POSITION MANAGEMENT"="职位管理";
+"Position"="职位";
+"Role Definition"="角色定义";
+
+"Confirm to reset the password of this user?"="确认重置该用户的密码?";
+"UNLock User"="用户解锁";
+"Lock User"="用户锁定";
+"Confirm to Lock this user?"="确认锁定该用户?";
+"Confirm to UNLock this user?"="确认解锁该用户?";
+
+//视频直播
+"Start Live Video Failed"="视频载入失败";
+//店铺报修
+"Data initialize failed" = "获取初始化数据失败";
+/*******************Prompt 提示文字*****************************/
+//System 很多地方通用
+"OK" = "确定";
+"CANCEL" = "取消";
+"Cancel"="取消";
+"YES"="是";
+"NO"="否";
+
+"Loading..."="加载中...";
+"Last updated:"="最后刷新:";
+"Pull down to refresh..."="下拉刷新...";
+"Loosen to refresh..."="松开即刷新...";
+
+"Network Unavailable\rPlease check your network"="网络无法连接\r请检查您的网络后重试";
+
+"Have Problems in using?You can..."="使用中遇到问题？您可以...";
+"Call to ask for help?"="需要帮助?";
+"DAIL HOT LINE OF CUSTOMER SERVICE"="拨打客服热线";
+"VIEW THE USER GUIDE"="查看用户手册";
+
+"Confirm to exit?"="是否退出";
+"Submitting..." = "提交中...";
+"Please wait..." = "请稍等...";
+
+"Network not found"="没有找到网络";
+"No WLAN connection. Confirm to upload now?"="没有无线连接。确认上传的吗?";
+
+"Please select the image source type?" = "请选择图片来源";
+"Camera" = "拍照";
+"Photo Library" = "图片库";
+"DELETE"="删除";
+"Quit..."="退出中...";
+"SAVE"="保存";
+"DON'T SAVE"="不保存";
+"Save changes before leave?"="返回前是否保存修改？";
+"No more than 9 digits"="不能超过9位数";
+
+"Confirm to delete?"="是否删除?";
+"CALL"="打电话";
+
+"Catagory is empty" = "分类不能为空";
+"ErrorCode" = "错误号";
+//About
+"Latest Version" = "已经是最新版本";
+"CHECK NEW VERSION" = "检查新版本";
+"Update Now(Recommond)"="立即更新(推荐)";
+"Update Now(Necessary)"="立即更新(必须)";
+//问候回访
+"Customer or call purpose can't be empty"="客户和回访目的不能为空";
+"Remarks length should not exceed 300 characters"="备注不能超过300个字符";
+"Actual finish time can't be empty"="实际完成时间不能为空";
+
+"Select staff"="选择员工";
+"Select purpose"="选择回访目的";
+"Select analysis type"="选择分析类型";
+"Please select phone No."="请选择号码";
+"Connecting..."="连接中...";
+"Dialing..."="呼叫中...";
+
+//通讯录
+"You do not have the authority to do this task"="您没有操作此功能的权限";
+"CUSTOMER LIST" = "客户列表";
+"Inviting..."="邀请中...";
+//零售巡店
+"Comments length should not exceed 300 characters"="评论不能超过300个字符";
+
+"There can be 10 issues at the most in one problem"="一个问题最多加10个问题";
+"There can be 200 issues at the most in total"="一个报告最多加200个问题";
+"CATEGORY"="分类";
+"There are still some Items not checked. Do you want to mark them as N/A"="还有些项目未检查，是否把它们都标记为“不适用”?";
+"Current data will be erased!\r\nConfirm to exit boutique handover?" = "是否离开项目验收 并保存当前进度?";
+"Current data will be erased!\r\nConfirm to exit?" = "当前进度将被清空,确认离开?";
+
+"Confirm to delete this issue?" = "确定删除这个问题?";
+"Store layout is empty" = "店铺平面图为空";
+"Confirm to delete this picture?" = "确认删除照片?";
+"Title is empty" = "标题为空";
+"Report title can't be empty" = "报告标题不能为空";
+"Description is empty" = "描述为空";
+"Commentary is empty"="评论为空";
+"Title length should not exceed 50 characters"="标题不能超过50个字符";
+"Describe length should not exceed 300 characters"="描述不能超过300个字符";
+"whether to delete the issue"="是否删除问题";
+"Getting reports..." = "报告获取中...";
+"No issues exist" = "问题不存在";
+"The store records will be empty, whether start new visiting?"="该店巡店记录将被清空，是否开始新的巡店";
+"No Store Selected" = "没有选中的店铺";
+"Existing cache,if you continue, the cache will be empty"="缓存存在，如果继续，缓存将被清空";
+"CONTINUE"="继续";
+"The cache does not exist"="缓存不存在";
+"This store have no unfinished report" = "该店铺没有未完成的报告";
+
+"Current data will be erased!\r\nConfirm to exit Boutique Visit?"="是否离开零售巡店 并保存当前进度?";
+"categories"="分类";
+"The choosed reports will be sent."="选择的报告将被发送";
+"Please Choose at least one issue"="请选择至少一个问题";
+"Can't be closed with issues"="包含问题的项目不能关闭";
+"NO,KEEP THEM EMPTY"="不，保持空白";
+"TOUCH TO OPEN"="点击打开";
+"(Unfinished)"="(未完成)";
+"Boutique Visit Reportt"="零售巡店报告";
+"N/A"="不适用";
+"Confirm to give up the task and go back?"="放弃提交任务，返回上一个页面？";
+"No issues exist"="问题不存在";
+"Assign tasks at once?"="马上针对问题分配任务？";
+//设置
+"Confirm to clear selected cache(s)?"="确定清除选中的缓存？";
+"There is no selected cache can clean"="没有选中的缓存可以清理";
+
+"Repeat Password is different" = "重复密码不匹配";
+"Changing password..." = "密码修改中...";
+"Change Password Success" = "修改密码成功";
+"Change Password Error" = "修改密码失败";
+
+"Found new version" = "发现新版本";
+"Update" = "更新";
+"Check Version Error" = "检查版本错误";
+
+"Your feedback is submitted.Thank you very much!"="您的反馈已经提交，非常感谢！";
+"Feedback is empty" = "反馈内容为空";
+"New password can't be empty"="新密码不能为空";
+"Repeat password can't be empty"="重复密码不能为空";
+"Email address format is not correct"="邮箱格式不正确";
+//登录
+"Verify Code is sent"="验证码已发送";
+"Mobile Phone Number Verified,\r\nSet Your new password" = "手机号码已经验证,\r\n请重新输入密码";
+"Email Verified,\r\nSet Your new password" = "电子邮箱已经验证,\r\n请重新输入密码";
+
+"Get Verify Code error" = "获取验证码失败";
+"Verify Code is empty" = "验证码不能为空";
+"Verify Error"="验证失败";
+"Password Empty"="密码为空";
+"Password Not Match"="密码不匹配";
+"Username/Password Empty" = "用户名/密码 不能为空";
+"Log In..." = "登录中...";
+"Log In Failed" = "登录失败";
+
+"Please input Mobile Phone Number/PR ID" = "请输入手机号或PR ID";
+"An Identifying Code has been sent to your bound mobile phone.Please input the code to get through the verification" = "验证码已经发送到您的绑定手机。请输入验证码并进行验证";
+"An Identifying Code has been sent to your bound email.Please input the code to get through the verification" = "验证码已经发送到您的绑定邮箱。请输入验证码并进行验证";
+"Password error"="密码错误";
+"Password verification"="密码验证";
+"Login failed five times\n need to verify"="登录失败五次\n需要验证";
+"Phone Number Empty" = "电话号码为空";
+"Verfying..." = "验证中...";
+"Connect server failed"="连接服务器失败";
+"Setting User Profile..."="设置用户资料中...";
+"The network connection is not stable or available"="网络连接不稳定或已断开";
+//编码查询
+"QUERY FAILED"="查询失败";
+//KPI中心
+"Select the column you want to display"="选择要显示的列";
+"the day before"="前一天";
+//客户卡
+"Whether unbinding?"="是否解除绑定？";
+"FEMALE"="女性";
+"MALE"="男性";
+"CAREER"="行业";
+"Address length should not exceed 300 characters"="地址长度不能超过300个字符";
+"Children describe length should not exceed 300 characters"="子女状况长度不能超过300个字符";
+"Interesting length should not exceed 300 characters"="兴趣爱好长度不能超过300个字符";
+"MemorialDays describe length should not exceed 300 characters"="纪念日描述不能超过300个字符";
+"Name length should not exceed 20 characters"="姓名长度不能超过20个字符";
+"Mobile phone number or \n name cannot be empty"="手机号或姓\n名不能为空";
+"Mobile phone number\n must be numeric"="手机号必须为数字";
+"The year of birth is out of range"="出生年份超出范围";
+"There is customer have the same mobile phone number,do you want to add the customer"="存在相同电话号的客户，是否继续添加";
+//KPI数据录入
+"Whether to quit KPI data entry tool"="是否退出KPI数据录入工具";
+"Save changes before search?"="查找前是否保存修改？";
+"Data of this day is modified,do you want to save before switch date?"="当天数据已修改，切换日期前是否保存？";
+"There is no modifications can be saved"="当前没有修改可保存";
+"modifications is saving"="修改已保存";
+"First select a store"="请先选择店铺";
+//文档中心
+"Confirm to continue editing?"="是否继续编辑?";
+"Forwarding..."="转发中...";
+"No WLAN connection. Confirm to view document now?" = "没有无线连接。确认打开文件吗?";
+//消息中心
+"Your message will be sent to all employees in"="您的消息将群发至%@全部员工";
+//项目验收
+"No location is assigned" = "没有设置位置";
+"No Inspection Data Existed" = "验收类目不存在";
+"Created Inspection Reports" = "验收报告已创建";
+"Created Rectifying Reports" = "整改报告已创建";
+//main
+"Your account has been frozen."="您的账号已经被冻结。";
+"Your account has been logined in other place, please note the account security."="您的账号已在其他地方登录，请注意账号安全。";
+"Current task will be closed,confirm to continue?"="当前正在进行的任务将会被关闭,确认继续吗?";
+"Connect to server is expired, please relogin"="连接已过期,请重新登录";
+//购买记录
+"Touch + to add Purchase Record"="点击＋来增加购买记录";
+"Product name or unitprice \n or QTY cannot be empty"="商品名或单价或\n数量不能为空";
+"QTY and unitprice \n must be numeric"="单价和数量必须为数字";
+"Whether to discard changes?"="是否放弃修改？";
+//店铺巡检
+"Not Scored" = "总评不能为空";
+"Comments Empty" = "备注为空";
+"Current data will be erased!\r\nConfirm to exit visiting?" = "是否离开巡店 并保存当前进度?";
+
+"Visiting Report Created" = "巡店报告已创建";
+
+
+
+//电话会议
+"You wan to ..."="您想要 ...";
+"EDIT HOST INFORMATION"="编辑主持人信息";
+"CHOOSE FROM R+ CONTACT"="从R+通讯录选择";
+"NEW ACCOUNT"="新账号";
+"Start conference immediately?"="马上开始电话会议?";
+"Confirm to delete booking conference?"="确认删除预约的电话会议?";
+"Connected"="已连接";
+"Conference is closed"="会议已经关闭";
+"There is no holding conference exist"="目前没有正在召开的会议";
+"Book time can not be empty"="预约时间不能为空";
+"Invite one user at least"="至少邀请一个用户";
+"This meeting may not be booked by yourself, please be careful.\nConfirm to continue?"="这可能不是您预约的会议，请谨慎操作。\n确认继续？";
+"Confirm to close conference?"="确认关闭会议?";
+"Are you sure to delete this account?"="您确认删除此账号吗?";
+
+//视觉陈列
+"Input Message"="消息内容";
+"Title cannot be empty"="标题不能为空";
+"At least need one picture"="至少需要一张图片";
+"Change the project status to pass"="把项目状态改为通过";
+"Change the project status to approval"="把项目状态改为待审核";
+"Change the project status to unqualified"="把项目状态改为不合格";
+"LOCATE"="定位";
+"LOCATED"="定位";
+"New Merchandising"="新陈列";
+"Remark"="标记";
+"Use the default title:NEW VM SHOW?"="使用默认标题:新陈列展示?";
+"NO.I WILL INPUT A NEW TITLE"="不，我要输入新标题";
+"downloaded"="已下载";
+"NEW VM SHOW"="新陈列展示";
+//零售咨询
+"Content can't be empty"="内容不能为空";
+//点数本
+"Number must be greater than 0"="数字必须大于0";
+"Stepping number can't be 0"="步进值不能为0";
+"Stepping number no more than 999"="步进值不能超过999";
+"Count no more than 99999"="点数不能超过99999";
+"Reason cannot be empty"="原因不能为空";
+"Undefined"="未定义";
+//在线考试
+"The examination paper answer cannot be empty"="不能交白卷";
+"NO SCORE"="无得分";
+"LATEST SCORE"="最近得分";
+
+//Infomation center
+"System Notification"="系统通知";
+"Administrator Notification"="管理员通知";
+"Broadcast:"="发送了一条广播";
+
+/**************************旧版**************************************/
+/*
+ RPString.strings
+ RetailPlus
+ 
+ Created by lin dong on 13-11-6.
+ Copyright (c) 2013年 lin dong. All rights reserved.
+ */
+/*****************************UI*********************************/
+//System
+
+//Menu
+//"m-Analytics"="客户分析";
+//"m-Development"="潜在客户";
+//"m-After Service"="售后服务";
+//"m-Communication"="问候回访";
+//"m-Event Planner"="活动统筹";
+//
+//"m-Daily Log"="交接记录";
+//"m-Expense"="运营费用";
+//"m-Media Information"="媒体反馈";
+//"m-Market Information"="市场情报";
+//"m-Attendance"="考勤管理";
+//"m-OT"="加班管理";
+//"m-Conference"="电话会议";
+//
+//"m-Retail Visit"="零售巡店";
+//"m-Mystery Shopper"="神秘访客";
+//"m-PA"="绩效考评";
+//"m-Inventory"="库存管理";
+//"m-Traffic Report"="客流报告";
+//"m-Sales Report"="销售报告";
+//
+//
+//
+//
+//"m-VM"="视觉陈列";
+//"m-CCTV"="视频直播";
+//"m-BD"="店铺拓展";
+//
+//"m-Daily Task"="每日工作";
+//"m-New Store"="新开店铺";
+//"m-on-board traning"="入职培训";
+//Visting
+
+
+/*****************************ERROR*********************************/
+//System
+
+//Visting
+
+
+
+
+
+
+
+
+
+//"Clients Profile" = "客户档案";
+//"Clients Follow-up" = "客户跟进";
+//"Clients Complaint" = "客户投诉";
+//
+//"Clients Repair" = "客户维护";
+//"Event Tracing" = "活动追踪";
+//
+//"Daily Task" = "每日工作";
+//"Boutique Maintenance" = "店铺维护";
+//"Handover Log Book" = "交接本";
+
+//"Boutique Cost" = "店铺成本";
+//"Boutique Opening" = "店铺开业";
+//"Media Feedback" = "媒体反馈";
+//"Market Study" = "市场情报";
+//"Handover Log Book"="交接记录";
+
+//"Construction Visit"="工程巡店";
+
+//"VM report" = "陈列管理";
+
+//"Conference call" = "电话会议";
+//"Traffic Report" = "客流报告";
+//"Real-time Stock" = "实时库存";
+//"Boutique Handover" = "店铺验收";
+//"KPI Reports" = "销售报告";
+
+//"Business Development" = "业务拓展";
+
+//"Performance Evaluation" = "绩效评估";
+//"OT management" = "加班管理";
+//"Attendance" = "考勤管理";
+
+//"On board training" = "入职培训";
+
+//"Mystery shopping" = "神秘访客";
+//"Action Plan" = "行动方案";
+
+
+//"INFO LIVE" = "信息中心";
+//"TASK LIVE" = "任务中心";
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

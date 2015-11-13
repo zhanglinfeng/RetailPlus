@@ -1,0 +1,17 @@
+{
+    "Sign": null,
+    "Code": 0,
+    "Desc": "success",
+    "Data": [
+        {
+            "DomainID": "0",
+            "DomainName": "北京新光百货店",
+            "Traffic": 288,
+            "TraQty": 92,
+            "ProQty": 100,
+            "Amount": 60000,
+            "IsFavorite": false,
+            "HasChild":0
+        }
+    ]
+}

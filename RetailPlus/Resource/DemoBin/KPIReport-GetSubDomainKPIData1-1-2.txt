@@ -1,0 +1,17 @@
+{
+    "Sign": null,
+    "Code": 0,
+    "Desc": "success",
+    "Data": [
+        {
+            "DomainID": "0",
+            "DomainName": "杭州新世界伊德店",
+            "Traffic": 150,
+            "TraQty": 22,
+            "ProQty": 76,
+            "Amount": 12350,
+            "IsFavorite": false,
+            "HasChild":0
+        }
+    ]
+}

@@ -1,0 +1,214 @@
+{
+    "Sign": "",
+    "Code": 0,
+    "Desc": "",
+    "Data": [
+        {
+            "InspId": "f2a1c413-a352-4523-acef-8617f7bc977b",
+            "StoreName": "FLN(上海嘉里中心店)",
+            "BrandName": "CV",
+            "Inspector": "13917832526",
+            "InspectionDate": "2014/3/24",
+            "IssuesData": [
+                {
+                    "ItemId": "5e858599-19bf-48ab-a91f-2164aed96b34",
+                    "Score": 3,
+                    "Issues": [
+                        {
+                            "IssueGid": "33d07133-f16c-44a9-92a7-e18f04e3cb38",
+                            "Title": "亮度不够",
+                            "IssueDesc": "灯泡亮度是能能还的亮一点的，白天看上去特别暗",
+                            "X": 243,
+                            "Y": 91,
+                            "BlueprintId": null,
+                            "IssueImgs": [
+
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "ItemId": "5f9b35ac-a47c-402e-a413-4d9f43793cfa",
+                    "Score": 4,
+                    "Issues": []
+                },
+                {
+                    "ItemId": "9a29e448-7ace-4de6-a5f1-4e49e01420bc",
+                    "Score": 2,
+                    "Issues": [
+                        {
+                            "IssueGid": "3b618680-f8ea-4a55-afd5-8654a5bc60da",
+                            "Title": "网络多次中断",
+                            "IssueDesc": "查看网络经常断网，请查明原因，尽快修复网络，如需IT部门负责请告知",
+                            "X": 915,
+                            "Y": 67,
+                            "BlueprintId": null,
+                            "IssueImgs": [
+
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "ItemId": "b9b6fa0e-2c58-4012-bdc4-67e27e1c15b5",
+                    "Score": 1,
+                    "Issues": [
+                        {
+                            "IssueGid": "20ee52db-39b0-4bbe-a93f-1dc4e95ada05",
+                            "Title": "缺少一个办公桌",
+                            "IssueDesc": "店铺办公室缺少一个办公桌，请尽快添加，椅子颜色换成深色，浅色是给客人用的。",
+                            "X": 1183,
+                            "Y": 231,
+                            "BlueprintId": null,
+                            "IssueImgs": [
+
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "ItemId": "140f7b7a-54cc-48c9-9c64-6d887a6b86dc",
+                    "Score": 5,
+                    "Issues": []
+                },
+                {
+                    "ItemId": "880d8be7-c777-482b-b0eb-a1076721d397",
+                    "Score": 1,
+                    "Issues": [
+                        {
+                            "IssueGid": "5a59772d-269d-46eb-9618-1d5022ccd41f",
+                            "Title": "镜子",
+                            "IssueDesc": "镜子左上方有很明显的划痕，不是人为造成的，这一批都存在这个问题，需要全部退回仓库，还一批新的，再下月正式开店之前完成",
+                            "X": 980,
+                            "Y": 406,
+                            "BlueprintId": null,
+                            "IssueImgs": [
+
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "ItemId": "e4ac041e-9e7c-4b2a-8340-a42a3cc96afd",
+                    "Score": 5,
+                    "Issues": []
+                },
+                {
+                    "ItemId": "fb376f03-5d48-4dd3-9958-a44c438e226b",
+                    "Score": 1,
+                    "Issues": [
+                        {
+                            "IssueGid": "2f54f813-740f-4ea4-a185-44d1e9242666",
+                            "Title": "灯箱",
+                            "IssueDesc": "灯箱没有包银边，看上去没有质感，电流是否调节到品牌方要求，晚上从远处200米看，一点都看不清楚。需要重新拆下重装",
+                            "X": 718,
+                            "Y": 586,
+                            "BlueprintId": null,
+                            "IssueImgs": [
+
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "ItemId": "97c72538-8f3c-4d80-80bb-b62fc298b7fc",
+                    "Score": 2,
+                    "Issues": [
+                        {
+                            "IssueGid": "a3da8616-32b8-4665-b616-4fe68bb77f80",
+                            "Title": "沙发",
+                            "IssueDesc": "沙发有一个颜色不对，应该是浅色的，深色是给新天地店铺的，如发错请快速换回",
+                            "X": 1055,
+                            "Y": 375,
+                            "BlueprintId": null,
+                            "IssueImgs": [
+
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "ItemId": "9c48a67f-dde2-4637-8531-bfb31f671a2c",
+                    "Score": 1,
+                    "Issues": [
+                        {
+                            "IssueGid": "e7a729c5-757a-4844-840c-c01a4ca0ea79",
+                            "Title": "主机",
+                            "IssueDesc": "办公室电脑还差一台主机",
+                            "X": 898,
+                            "Y": 157,
+                            "BlueprintId": null,
+                            "IssueImgs": [
+
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "ItemId": "9c59cd6c-6aa4-4ff1-95e6-f74dd2e77f47",
+                    "Score": 5,
+                    "Issues": []
+                },
+                {
+                    "ItemId": "9b8d94e3-df5c-4ac9-9751-1f4280f306a7",
+                    "Score": 1,
+                    "Issues": [
+                        {
+                            "IssueGid": "5f9b07de-a8b7-426f-bae8-3368cd233af2",
+                            "Title": "灭火器",
+                            "IssueDesc": "嘉里中心规定是要6-8个灭火器，与我们品牌之前的标准有些差入，所以至少要再加3个",
+                            "X": 57,
+                            "Y": 178,
+                            "BlueprintId": null,
+                            "IssueImgs": [
+
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "ItemId": "47bdaf16-444a-42d0-8286-3c6c84d01228",
+                    "Score": 1,
+                    "Issues": [
+                        {
+                            "IssueGid": "e795dc20-83e4-40ec-a811-3ad78694a6f4",
+                            "Title": "墙面色差",
+                            "IssueDesc": "A区墙面有严重色差",
+                            "X": 440,
+                            "Y": 319,
+                            "BlueprintId": null,
+                            "IssueImgs": [
+                                
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "ItemId": "36c2c23c-3c3c-431e-9a8f-5ea51b478540",
+                    "Score": 3,
+                    "Issues": []
+                },
+                {
+                    "ItemId": "748be074-911f-4ee3-8eeb-71b638721d28",
+                    "Score": 5,
+                    "Issues": []
+                },
+                {
+                    "ItemId": "f54fb5d2-48ea-4387-b6ce-823754d7c904",
+                    "Score": 5,
+                    "Issues": []
+                },
+                {
+                    "ItemId": "d3cadaee-4088-4aac-bc2c-95c387f79f79",
+                    "Score": 5,
+                    "Issues": []
+                },
+                {
+                    "ItemId": "b5be751f-f795-42dd-9d2f-ac30e2ee630a",
+                    "Score": 5,
+                    "Issues": []
+                }
+            ]
+        }
+    ]
+}

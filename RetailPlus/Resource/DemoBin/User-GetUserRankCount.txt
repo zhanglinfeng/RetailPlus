@@ -1,0 +1,1 @@
+{"Sign":null,"Code":0,"Desc":"","Data":[{"Rank":-1,"Count":0},{"Rank":1,"Count":5},{"Rank":2,"Count":5},{"Rank":3,"Count":16}]}

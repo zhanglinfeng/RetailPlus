@@ -1,0 +1,52 @@
+{
+    "Sign": "",
+    "Code": 0,
+    "Desc": "",
+    "Data": [
+        {
+            "token": null,
+            "CourtesyCallTypeId": "23bdb1f7-e4cb-4afb-9282-74089504eca4",
+            "OwnerId": "00000000-0000-0000-0000-000000000000",
+            "TypeCode": null,
+            "TypeName": "售后回访",
+            "Description": "1)自我引介,拉近距离\n2)询问客户使用感受\n3)记录客户反馈\n4)对客户选择了我们的品牌给予赞美肯定\n5)为下一次回访做铺垫",
+            "CourtesyCallTips": "售后回访"
+        },
+        {
+            "token": null,
+            "CourtesyCallTypeId": "23bdb1f7-e4cb-4afb-9282-74089504ec94",
+            "OwnerId": "00000000-0000-0000-0000-000000000000",
+            "TypeCode": null,
+            "TypeName": "嘘寒问暖",
+            "Description": "1)自我引介,拉近距离\n2)引入嘘寒问暖主体: 生日/特殊日子/节日问候\n3)询问客户使用感受\n4)为下一次回访做铺垫",
+            "CourtesyCallTips": "嘘寒问暖"
+        },
+        {
+            "token": null,
+            "CourtesyCallTypeId": "a5eaca62-77bf-44c8-bd20-c59b1b911288",
+            "OwnerId": "00000000-0000-0000-0000-000000000000",
+            "TypeCode": null,
+            "TypeName": "维修跟进",
+            "Description": "1)自我引介,拉近距离\n2)询问维修后状态\n3)对客户维修后的状态表示关心\n4)为下一次回访做铺垫",
+            "CourtesyCallTips": "维修跟进"
+        },
+        {
+            "token": null,
+            "CourtesyCallTypeId": "a5eaca62-77bf-44c8-bd20-c59b1b911255",
+            "OwnerId": "00000000-0000-0000-0000-000000000000",
+            "TypeCode": null,
+            "TypeName": "新品推介",
+            "Description": "1)自我引介,拉近距离\n2)了解客户现产品使用情况\n3)制造需求\n4)打开话题，切入主题\n5)和客户确认来店时间",
+            "CourtesyCallTips": "新品推介"
+        },
+        {
+            "token": null,
+            "CourtesyCallTypeId": "a5eaca62-77bf-44c8-bd20-c59b1b911235",
+            "OwnerId": "00000000-0000-0000-0000-000000000000",
+            "TypeCode": null,
+            "TypeName": "活动邀约",
+            "Description": "1)自我引介,拉近距离\n2)了解客户现产品使用情况\n3)打开话题，切入主题\n4)和客户确认出席时间",
+            "CourtesyCallTips": "活动邀约"
+        }
+    ]
+}

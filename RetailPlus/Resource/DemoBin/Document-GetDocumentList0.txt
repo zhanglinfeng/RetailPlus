@@ -1,0 +1,79 @@
+{
+    "Sign": "",
+    "Code": 0,
+    "Desc": "",
+    "Data": [
+        {
+            "DocId": "c2908475-56a4-467b-bc58-6f91f07c233c",
+            "DocName": "广州FLNL验收报告",
+            "DocUrl": "reportInsp1395632597036.pdf",
+            "DocCode": "140321140708",
+            "DocType": "InspectionReport",
+            "BrandName": "Doio",
+            "StoreName": "广州汇杰百货弗兰纳里",
+            "CreateDate": "2014-03-21 14:07:08",
+            "IsReceived": true,
+            "IsSendBySelf": true,
+            "IsRead": true,
+            "Rank": 2,
+            "IsEdit": false,
+            "IsFinish": true,
+            "Author": "GraceLu"
+            "FileSize": 0.0
+        },
+        {
+            "DocId": "257136f8-824d-4abb-bd46-2bc33896d3c7",
+            "DocName": "上海APM弗兰纳里",
+            "DocUrl": "reportMnt1395808984770.pdf",
+            "DocCode": "140319165114",
+            "DocType": "MntReport",
+            "BrandName": "Doio",
+            "StoreName": "上海嘉里中心弗兰纳里",
+            "CreateDate": "2014-03-19 16:51:14",
+            "IsReceived": true,
+            "IsSendBySelf": true,
+            "IsRead": true,
+            "IsEdit": false,
+            "IsFinish": true,
+            "Rank": 2,
+            "Author": "VickyZhang"
+            "FileSize": 0.0
+        },
+        {
+            "DocId": "257136f8-824d-4abb-bd46-2bc33896d3c7",
+            "DocName": "嘉里中心FLNL",
+            "DocUrl": "reportVisit1395809506866.pdf",
+            "DocCode": "140319165114",
+            "DocType": "ConstructionVisitReport",
+            "BrandName": "Doio",
+            "StoreName": "嘉里中心FLNL",
+            "CreateDate": "2014-03-19 16:51:14",
+            "IsReceived": true,
+            "IsSendBySelf": true,
+            "IsRead": true,
+            "IsEdit": false,
+            "IsFinish": true,
+            "Rank": 2,
+            "Author": "RonaldoWang"
+            "FileSize": 0.0
+        },
+        {
+            "DocId": "257136f8-824d-4abb-bd46-2bc33896d3c7",
+            "DocName": "广州汇杰百货弗兰纳里",
+            "DocUrl": "BVisitReport1395630545799.pdf",
+            "DocCode": "140319165114",
+            "DocType": "BVisitReport",
+            "BrandName": "Doio",
+            "StoreName": "广州汇杰百货弗兰纳里",
+            "CreateDate": "2014-03-19 16:51:14",
+            "IsReceived": true,
+            "IsSendBySelf": true,
+            "IsRead": true,
+            "IsEdit": false,
+            "IsFinish": true,
+            "Rank": 2,
+            "Author": "LilyZhang"
+            "FileSize": 0.0
+        }
+    ]
+}

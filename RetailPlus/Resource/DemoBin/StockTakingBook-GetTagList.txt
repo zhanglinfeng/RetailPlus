@@ -1,0 +1,71 @@
+{
+    "Sign": "",
+    "Code": 0,
+    "Desc": "",
+    "Data": [
+    {
+        "id": null,
+        "type": null,
+        "Tags": [
+        {
+            "Tag": "Area A"
+        },
+        {
+            "Tag": "hhj"
+        },
+        {
+            "Tag": "kit"
+        }
+        ],
+        "IsLast": true
+    },
+    {
+        "id": null,
+        "type": null,
+        "Tags": [
+        {
+            "Tag": "Area A"
+        },
+        {
+            "Tag": "j"
+        },
+        {
+            "Tag": "kl"
+        }
+        ],
+        "IsLast": false
+    },
+    {
+        "id": null,
+        "type": null,
+        "Tags": [
+        {
+            "Tag": "Area A"
+        },
+        {
+            "Tag": "red"
+        },
+        {
+            "Tag": "man"
+        }
+        ],
+        "IsLast": false
+    },
+    {
+        "id": null,
+        "type": null,
+        "Tags": [
+        {
+            "Tag": "Area A"
+        },
+        {
+            "Tag": ""
+        },
+        {
+            "Tag": ""
+        }
+        ],
+        "IsLast": true
+    }
+    ]
+}

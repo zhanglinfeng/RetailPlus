@@ -1,0 +1,1 @@
+{"Sign":null,"Code":0,"Desc":"","Data":{"AuthToken":"33dee161-8047-4dc6-a81e-5147a2e67e10","Expires":"2014-03-20 17:29:12","Rights":15}}

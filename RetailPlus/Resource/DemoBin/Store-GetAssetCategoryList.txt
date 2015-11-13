@@ -1,0 +1,147 @@
+{
+    "Sign": "",
+    "Code": 0,
+    "Desc": "",
+    "Data": [
+        {
+            "VendorId": "859f42b5-aa6f-4f87-a878-815332a465c9",
+            "VendorName": "上海创维有线公司",
+            "AssetTypeName": "设备",
+            "Categorys": [
+                {
+                    "CategoryId": "5e858599-19bf-48ab-a91f-2164aed96b34",
+                    "CategoryName": "金卤灯",
+                    "CategoryDesc": "品牌指定款，Philips CDMT 70W（8只）",
+                    "Quantity": 0,
+                    "Unit": "只"
+                },
+                {
+                    "CategoryId": "5f9b35ac-a47c-402e-a413-4d9f43793cfa",
+                    "CategoryName": "门禁系统",
+                    "CategoryDesc": "含主机、8门卡",
+                    "Quantity": 0,
+                    "Unit": "套"
+                },
+                {
+                    "CategoryId": "9a29e448-7ace-4de6-a5f1-4e49e01420bc",
+                    "CategoryName": "网络",
+                    "CategoryDesc": "含路由器，宽带接入",
+                    "Quantity": 0,
+                    "Unit": "套"
+                },
+                {
+                    "CategoryId": "b9b6fa0e-2c58-4012-bdc4-67e27e1c15b5",
+                    "CategoryName": "办公室内家具",
+                    "CategoryDesc": "含书桌、衣柜、架子（5套）",
+                    "Quantity": 0,
+                    "Unit": "套"
+                },
+                {
+                    "CategoryId": "140f7b7a-54cc-48c9-9c64-6d887a6b86dc",
+                    "CategoryName": "收银系统",
+                    "CategoryDesc": "含收银主机、钱箱、刷卡器、屏幕、RMS（5套）",
+                    "Quantity": 0,
+                    "Unit": "套"
+                },
+                {
+                    "CategoryId": "880d8be7-c777-482b-b0eb-a1076721d397",
+                    "CategoryName": "镜子",
+                    "CategoryDesc": "开门上贴镜",
+                    "Quantity": 0,
+                    "Unit": "面"
+                },
+                {
+                    "CategoryId": "e4ac041e-9e7c-4b2a-8340-a42a3cc96afd",
+                    "CategoryName": "转角前柜",
+                    "CategoryDesc": "",
+                    "Quantity": 0,
+                    "Unit": ""
+                },
+                {
+                    "CategoryId": "fb376f03-5d48-4dd3-9958-a44c438e226b",
+                    "CategoryName": "灯箱",
+                    "CategoryDesc": "汉拉斯不绣钢边框，LED照明（6只）",
+                    "Quantity": 0,
+                    "Unit": ""
+                },
+                {
+                    "CategoryId": "97c72538-8f3c-4d80-80bb-b62fc298b7fc",
+                    "CategoryName": "沙发",
+                    "CategoryDesc": "",
+                    "Quantity": 0,
+                    "Unit": ""
+                },
+                {
+                    "CategoryId": "9c48a67f-dde2-4637-8531-bfb31f671a2c",
+                    "CategoryName": "办公室主机",
+                    "CategoryDesc": "Dearler购买",
+                    "Quantity": 0,
+                    "Unit": "套"
+                },
+                {
+                    "CategoryId": "9c59cd6c-6aa4-4ff1-95e6-f74dd2e77f47",
+                    "CategoryName": "LOGO",
+                    "CategoryDesc": "LED内发光立体字",
+                    "Quantity": 0,
+                    "Unit": "套"
+                }
+            ]
+        },
+        {
+            "VendorId": "f6fedf79-ff89-4e51-ab07-ab335a77b2ec",
+            "VendorName": "上海艺辉有限公司",
+            "AssetTypeName": "装修",
+            "Categorys": [
+                {
+                    "CategoryId": "9b8d94e3-df5c-4ac9-9751-1f4280f306a7",
+                    "CategoryName": "灭火器",
+                    "CategoryDesc": "商场指定",
+                    "Quantity": 0,
+                    "Unit": "个"
+                },
+                {
+                    "CategoryId": "47bdaf16-444a-42d0-8286-3c6c84d01228",
+                    "CategoryName": "涂料",
+                    "CategoryDesc": "白色涂料",
+                    "Quantity": 0,
+                    "Unit": "套"
+                },
+                {
+                    "CategoryId": "36c2c23c-3c3c-431e-9a8f-5ea51b478540",
+                    "CategoryName": "地板",
+                    "CategoryDesc": "缝隙、光滑度",
+                    "Quantity": 0,
+                    "Unit": "平方"
+                },
+                {
+                    "CategoryId": "748be074-911f-4ee3-8eeb-71b638721d28",
+                    "CategoryName": "电气",
+                    "CategoryDesc": "含配电箱、地插、开光",
+                    "Quantity": 0,
+                    "Unit": "套"
+                },
+                {
+                    "CategoryId": "f54fb5d2-48ea-4387-b6ce-823754d7c904",
+                    "CategoryName": "地砖",
+                    "CategoryDesc": "指定货色玻化砖，斯米克品牌600*600",
+                    "Quantity": 0,
+                    "Unit": "块"
+                },
+                {
+                    "CategoryId": "d3cadaee-4088-4aac-bc2c-95c387f79f79",
+                    "CategoryName": "墙面",
+                    "CategoryDesc": "漆面、光滑度",
+                    "Quantity": 0,
+                    "Unit": "平方"
+                },
+                {
+                    "CategoryId": "b5be751f-f795-42dd-9d2f-ac30e2ee630a",
+                    "CategoryName": "天花板",
+                    "CategoryDesc": "墙面漆",
+                    "Quantity": 0,
+                    "Unit": "平方"
+                }
+            ]
+        }
+    ]
+}

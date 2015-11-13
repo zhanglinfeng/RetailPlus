@@ -1,0 +1,93 @@
+{
+    "Sign": null,
+    "Code": 0,
+    "Desc": null,
+    "Data": [
+    {
+        "DocId": "8e0f4282-c693-4125-af09-65a2d11b2f8a",
+        "ReportId": "3fe5ea97-90ed-40f6-be73-1720eb3918ba",
+        "TemplateId": "b2aa0bd7-6d45-4d5e-be46-51d873ef2ccb",
+        "TemplateName": "两节课",
+        "TemplateDesc": "",
+        "CategoryTag": "TEST",
+        "ReportTitle": "而他也",
+        "Date": "2014-09-24 11:12:32",
+        "Point": 100,
+        "StoreId": "d064399e-f340-4eac-b15e-feebaa673289",
+        "StoreName": "Airport T3 Demestic ",
+        "Remark": "Yu",
+        "Rank": 1,
+        "UserName": "安全",
+        "Blueprints": [
+        {
+            "Id": "101dee4a-2705-4384-8f54-6b4be45b429d",
+            "StoreId": "d064399e-f340-4eac-b15e-feebaa673289",
+            "Name": "Blueprint_635232521816279832",
+            "Url": "store/Blueprint1.jpg"
+        }
+        ],
+        "BVisitData": {
+            "IssuesData": [
+            {
+                "BVDetailId": "c90c7756-4a00-42ab-a886-85ee9f693aae",
+                "CategoryName": "遽尔",
+                "Score": 1,
+                "Issues": [
+                {
+                    "IssueGid": "1bee8741-e511-47f4-b015-7ceed680c695",
+                    "Title": "kala",
+                    "IssueDesc": "Lll",
+                    "X": 0,
+                    "Y": 0,
+                    "BlueprintId": "00000000-0000-0000-0000-000000000000",
+                    "IssueImgs": []
+                }
+                ],
+                "ItemId": "c242608c-2a8a-4103-bf3e-5f42e22a39d7",
+                "ItemTitle": "据有人",
+                "ItemDesc": "2",
+                "Weight": 3
+            }
+            ]
+        }
+    },
+    {
+        "DocId": "1a508f87-2c9a-45e2-88a2-a897d942d663",
+        "ReportId": "2c363d17-6678-4aeb-8573-6ca0b5f63485",
+        "TemplateId": "b2aa0bd7-6d45-4d5e-be46-51d873ef2ccb",
+        "TemplateName": "强吻",
+        "TemplateDesc": "",
+        "CategoryTag": "TEST",
+        "ReportTitle": "确认过",
+        "Date": "2014-09-24 11:11:29",
+        "Point": 100,
+        "StoreId": "d064399e-f340-4eac-b15e-feebaa673289",
+        "StoreName": "Airport T3 Demestic ",
+        "Remark": "Jj",
+        "Rank": 1,
+        "UserName": "情人",
+        "Blueprints": [
+        {
+            "Id": "101dee4a-2705-4384-8f54-6b4be45b429d",
+            "StoreId": "d064399e-f340-4eac-b15e-feebaa673289",
+            "Name": "Blueprint_635232521816279832",
+            "Url": "store/Blueprint1.jpg"
+        }
+        ],
+        "BVisitData": {
+            "IssuesData": [
+            {
+                "BVDetailId": "58e0b1dd-d432-418c-b196-23a16f50f651",
+                "CategoryName": "空格",
+                "Score": 1,
+                "Issues": [],
+                "ItemId": "c242608c-2a8a-4103-bf3e-5f42e22a39d7",
+                "ItemTitle": "353",
+                "ItemDesc": "2",
+                "Weight": 3
+            }
+            ]
+        }
+    }
+    ]
+}

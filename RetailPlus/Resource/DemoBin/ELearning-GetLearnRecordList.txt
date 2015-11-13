@@ -1,0 +1,15 @@
+{
+    "Sign": null,
+    "Code": 0,
+    "Desc": "",
+    "Data": [
+    {
+        "LearnDate": "2014-08-04 17:43:04",
+        "CoursewareId": "4325063e-0316-45de-a15d-ab6c5fdc0259",
+        "CourseId": "db3c8cff-811e-47bf-9ba6-251f15993396",
+        "CoursewareCode": "#001",
+        "CoursewareName": "高中数学速算",
+        "CourseName": "一步一步学习IOS6"
+    }
+    ]
+}

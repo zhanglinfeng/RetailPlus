@@ -1,0 +1,234 @@
+{
+    "Sign": "",
+    "Code": 0,
+    "Desc": "",
+    "Data": [
+        {
+            "CategoryName": "Back office",
+            "TemplateItems": [
+                {
+                    "ItemId": "b5e83f84-67da-497b-955d-8c781251f34d",
+                    "ItemTitle": "Sales Invoice/Stationery",
+                    "ItemDesc": "Sales Invoice and all stationery neatly stacked",
+                    "Weight":10
+                },
+                {
+                    "ItemId": "cf2c0c3e-87f4-4bb2-afeb-ae51f0279e64",
+                    "ItemTitle": "Safe Key",
+                    "ItemDesc": "Boutique (or Safe)Key well organized and kept",
+                    "Weight":10
+                },
+                {
+                    "ItemId": "bba857ef-fd70-4a3f-a811-c64940f02604",
+                    "ItemTitle": "Mobile device",
+                    "ItemDesc": "All mobile on silent mode",
+                    "Weight":10
+                },
+                {
+                    "ItemId": "bae06ba3-9229-402d-87b7-e29484f3023c",
+                    "ItemTitle": "Files/Bulletins/Pin Board",
+                    "ItemDesc": "Tidy all files/bulletins/pin board clean",
+                    "Weight":10
+                }
+            ]
+        },
+        {
+            "CategoryName": "Briefing",
+            "TemplateItems": [
+                {
+                    "ItemId": "300b3d38-1b7a-4876-b5b8-70e4438b1c97",
+                    "ItemTitle": "Smile and Welcome",
+                    "ItemDesc": "SMILE and Welcome - practice individual smile and Welcome",
+                    "Weight":10
+                },
+                {
+                    "ItemId": "c088769d-5a60-40a4-b0d7-74e69b040355",
+                    "ItemTitle": "Product Knowledge",
+                    "ItemDesc": "Basic product knowledge / review training and sales/stock analysis",
+                    "Weight":10
+                },
+                {
+                    "ItemId": "93eb5603-9045-45b1-993e-76196df5bb31",
+                    "ItemTitle": "Roleplay",
+                    "ItemDesc": "Sales and Service Procedure review and practice",
+                    "Weight":10
+                },
+                {
+                    "ItemId": "74d5c7fd-37ce-40cd-b30c-d491bbbf9228",
+                    "ItemTitle": "KPI Board and Staff Target",
+                    "ItemDesc": "KPI Board and Staff Target and Performance Briefing",
+                    "Weight":10
+                }
+            ]
+        },
+        {
+            "CategoryName": "Cleaning",
+            "TemplateItems": [
+                {
+                    "ItemId": "c6c0e744-cfee-4cc4-8fb1-124bf9f1220b",
+                    "ItemTitle": "Whole Boutique",
+                    "ItemDesc": "No visial trash in any place of the whole boutique",
+                    "Weight":10
+                },
+                {
+                    "ItemId": "cf69c3b8-d4ae-49b8-8232-1721388f2f8b",
+                    "ItemTitle": "Floor clean",
+                    "ItemDesc": "Floor clean and waxed",
+                    "Weight":10
+                },
+                {
+                    "ItemId": "9a0300b2-0d08-418c-8982-6fd68db57a99",
+                    "ItemTitle": "Cashier Area",
+                    "ItemDesc": "Cashier area neatly, clean and well organized",
+                    "Weight":10
+                },
+                {
+                    "ItemId": "620c6baa-6201-4be2-8295-baed58cc5a92",
+                    "ItemTitle": "Window",
+                    "ItemDesc": "Window - exterior and interior glasses cleaned ",
+                    "Weight":10
+                }
+            ]
+        },
+        {
+            "CategoryName": "Grooming",
+            "TemplateItems": [
+                {
+                    "ItemId": "dccd0706-f6c6-466b-bcb6-139b19a2a6b5",
+                    "ItemTitle": "Name Tag",
+                    "ItemDesc": "All have the Name tag",
+                    "Weight":10
+                },
+                {
+                    "ItemId": "94900c35-7e9b-4b84-8134-333c2d47ddd9",
+                    "ItemTitle": "Staff Uniform",
+                    "ItemDesc": "All staff wearing uniform and clean.",
+                    "Weight":10
+                },
+                {
+                    "ItemId": "eb48fd8b-f944-4f5b-a1e6-350c714204b9",
+                    "ItemTitle": "Hair",
+                    "ItemDesc": "Hair: clean and tidy. For long hair, clean and neat pony tail",
+                    "Weight":10
+                },
+                {
+                    "ItemId": "a8d53e5b-4fff-4779-b453-4c8eaaed6294",
+                    "ItemTitle": "Nail",
+                    "ItemDesc": "Nail: Light colour or no colour",
+                    "Weight":10
+                },
+                {
+                    "ItemId": "97af8b76-d4e5-4671-a840-ab9be2d66372",
+                    "ItemTitle": "Tie",
+                    "ItemDesc": "Well knotted tie of male staff",
+                    "Weight":10
+                },
+                {
+                    "ItemId": "52489957-3ce8-42cd-b9f3-c4c9e2846dea",
+                    "ItemTitle": "Accessories",
+                    "ItemDesc": "No unaccpetable accessories",
+                    "Weight":10
+                },
+                {
+                    "ItemId": "ae9ce31f-83e4-4f66-aa5a-d4fe6e698b55",
+                    "ItemTitle": "Shoes",
+                    "ItemDesc": "Shoes and stockings are clean. There's no decoration in stocking",
+                    "Weight":10
+                },
+                {
+                    "ItemId": "0bea126e-aa54-4cf0-9551-db714c7738ee",
+                    "ItemTitle": "Make-up",
+                    "ItemDesc": "Proper make-up of female staff",
+                    "Weight":10
+                }
+            ]
+        },
+        {
+            "CategoryName": "Operation",
+            "TemplateItems": [
+                {
+                    "ItemId": "04359b81-a57b-43fa-9bf5-034a75d3fb6f",
+                    "ItemTitle": "Annual Leave Clearance/Overtime",
+                    "ItemDesc": "Annual Leave clearance/ Over-time well-managed and update",
+                    "Weight":10
+                },
+                {
+                    "ItemId": "d6840a13-7e62-46b4-b30c-08698e4f9db2",
+                    "ItemTitle": "VIP Folder",
+                    "ItemDesc": "VIP folder of all staff are well filled",
+                    "Weight":10
+                },
+                {
+                    "ItemId": "535d70a5-4a31-4874-8a7c-491d9fb52842",
+                    "ItemTitle": "Stock of the Drinks",
+                    "ItemDesc": "Good stock of the drinks or visitors. To be served with  tray",
+                    "Weight":10
+                },
+                {
+                    "ItemId": "35def731-6d1c-4700-80dc-7332a174c834",
+                    "ItemTitle": "Daily Briefing",
+                    "ItemDesc": "Are there training notes in the Daily Briefing?",
+                    "Weight":10
+                }
+            ]
+        },
+        {
+            "CategoryName": "Stock",
+            "TemplateItems": [
+                {
+                    "ItemId": "9949cece-b94c-453e-aa26-62a27ee9d1f1",
+                    "ItemTitle": "Product Stock",
+                    "ItemDesc": "The product piece qty is accordance with the daily stock take sheet",
+                    "Weight":10
+                },
+                {
+                    "ItemId": "9feda98c-3e91-4d61-89f5-a506e9adf6a2",
+                    "ItemTitle": "RMS Stock",
+                    "ItemDesc": "The worksheet in the RMS is finished in time (example: Transfer worksheet, Order worksheet) ",
+                    "Weight":10
+                },
+                {
+                    "ItemId": "8f45d09d-88eb-4b60-a485-dc51c7b88ac0",
+                    "ItemTitle": "Current Stock",
+                    "ItemDesc": "Correct stock",
+                    "Weight":10
+                }
+            ]
+        },
+        {
+            "CategoryName": "VM",
+            "TemplateItems": [
+                {
+                    "ItemId": "69eb023d-b86d-4713-b8e5-4d672b3145ed",
+                    "ItemTitle": "Display",
+                    "ItemDesc": "Display and product piece neatly and tidy",
+                    "Weight":10
+                },
+                {
+                    "ItemId": "f35776a6-b314-4c19-847d-702897b03673",
+                    "ItemTitle": "Catalouges Display",
+                    "ItemDesc": "Catalouges are well displayed in the shelf and be used smartly",
+                    "Weight":10
+                },
+                {
+                    "ItemId": "fef5454d-c4ba-4523-9def-9d449615f8e4",
+                    "ItemTitle": "Price Tag",
+                    "ItemDesc": "Price tag with correct pricing, same font and well hidden",
+                    "Weight":10
+                },
+                {
+                    "ItemId": "c49bf9c9-9503-405e-886a-c0f76ceb03c2",
+                    "ItemTitle": "Display Tools",
+                    "ItemDesc": "Display tools well matched with product piece",
+                    "Weight":10
+                },
+                {
+                    "ItemId": "f07b8e95-54fc-4fa3-bc2b-ebf9b6d1cd42",
+                    "ItemTitle": "Flowers",
+                    "ItemDesc": "Flowers are fresh and well arrangements.",
+                    "Weight":10
+                }
+            ]
+        }
+    ]
+}

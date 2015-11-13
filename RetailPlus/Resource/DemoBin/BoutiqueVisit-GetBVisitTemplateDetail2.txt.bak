@@ -1,0 +1,77 @@
+{
+    "Sign": "",
+    "Code": 0,
+    "Desc": "",
+    "Data": [
+    {
+        "CategoryName": "清洁",
+        "TemplateItems": [
+        {
+            "ItemId": "70fb2abc-000a-4804-9ba0-0a91d49c79e1",
+            "ItemTitle": "内/外橱窗",
+            "ItemDesc": "内/外橱窗无手印和水渍"
+        },
+        {
+            "ItemId": "182be85c-40dd-4815-a9db-2bcd889921c9",
+            "ItemTitle": "收银区",
+            "ItemDesc": "收银区整洁有序"
+        },
+        {
+            "ItemId": "9caebe3a-61f0-4509-83df-b37b048db48c",
+            "ItemTitle": "地板",
+            "ItemDesc": "地板干净、光亮"
+        },
+        {
+            "ItemId": "39677092-36bf-438f-a25f-cbb10e89d556",
+            "ItemTitle": "店铺角落",
+            "ItemDesc": "店铺任何角落无明显垃圾"
+        }
+        ]
+    },
+    {
+        "CategoryName": "仪容仪表",
+        "TemplateItems": [
+        {
+            "ItemId": "7e9b0980-60a4-45a6-a7f9-195cc544dcec",
+            "ItemTitle": "员工发型",
+            "ItemDesc": "短发：干净利索。长发：干净盘起"
+        },
+        {
+            "ItemId": "f14ec6d8-b973-466f-a827-33f11f3d9b54",
+            "ItemTitle": "指甲",
+            "ItemDesc": "指甲干净长度适宜，甲油裸色或透明色"
+        }
+        ]
+    },
+    {
+        "CategoryName": "办公区域",
+        "TemplateItems": [
+        {
+            "ItemId": "2006971a-fc3b-41bc-bb4f-69789eb9b855",
+            "ItemTitle": "大门/金库钥匙",
+            "ItemDesc": "店铺大门/金库钥匙合理分配保管"
+        },
+        {
+            "ItemId": "f9115f27-d537-4889-8437-98d64d383f99",
+            "ItemTitle": "销售桌",
+            "ItemDesc": "销售桌内，销售工具摆放整齐"
+        },
+        {
+            "ItemId": "9280c5d3-b827-4ba1-96ff-abad1804f248",
+            "ItemTitle": "文件夹/公告栏",
+            "ItemDesc": "文件夹/公告栏等保持干净，摆放有序"
+        },
+        {
+            "ItemId": "1046929e-e559-408a-8c7b-abd80706a8c4",
+            "ItemTitle": "销售单据/文具",
+            "ItemDesc": "销售单据和文具用完归齐原位"
+        },
+        {
+            "ItemId": "5a1ff6fd-863e-4cf4-b087-d1e2525809ab",
+            "ItemTitle": "手机设备",
+            "ItemDesc": "所有移动设备静音模式"
+        }
+        ]
+    }
+    ]
+}

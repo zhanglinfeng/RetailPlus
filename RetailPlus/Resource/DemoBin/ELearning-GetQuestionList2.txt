@@ -1,0 +1,26 @@
+{
+    "Sign": null,
+    "Code": 0,
+    "Desc": null,
+    "Data": [
+
+        {
+            "QuestionId": "102915bd-2391-423d-b7be-8cb4f3cd9bca",
+            "QuestionCode": "#004",
+            "QuestionTitle": "下面那首诗是李白的",
+            "QuestionDesc": "下面那首诗是李白的",
+            "QuestionType": "1",
+            "ImgUrl": "Elearning/el3.jpg",
+            "Options": "A.蜀道难，难于上青天|B.垂死病中惊坐起|C.笑问客从何处来"
+        },
+        {
+            "QuestionId": "8d7aaa7d-4c4b-4945-968e-1d48c7cdf040",
+            "QuestionCode": "#005",
+            "QuestionTitle": "下列词语中没有错别字的一组是",
+            "QuestionDesc": "下列词语中没有错别字的一组是",
+            "QuestionType": "2",
+            "ImgUrl": "Elearning/el4.png",
+            "Options": "A.狡黠 清淅棉里藏针|B.暇想 证卷 按部就班|C.颓唐 编缉不屑置辨|D.粗犷 渲染 别出心裁"
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "Sign": "",
+    "Code": 0,
+    "Desc": "",
+    "Data": [
+        {
+            "CategoryName": "店铺运营",
+            "TemplateItems": [
+                {
+                    "ItemId": "2fbc8d2c-6754-44b3-a3cd-3c2f8a1d7863",
+                    "ItemTitle": "客户资料卡",
+                    "ItemDesc": "员工是否认真填写客户资料？",
+                    "Weight":10
+                },
+                {
+                    "ItemId": "262bf32c-bfa6-41bc-833d-58740377f602",
+                    "ItemTitle": "销售区域管理",
+                    "ItemDesc": "营业时间阿姨未出现在销售区域",
+                    "Weight":10
+                },
+                {
+                    "ItemId": "cc13474f-91a9-4043-a3c5-684740c43822",
+                    "ItemTitle": "员工年假/加班管理",
+                    "ItemDesc": "年假/加班及时做好记录和更新",
+                    "Weight":10
+                },
+                {
+                    "ItemId": "e90d2193-b32c-41e7-a994-68c3283c483f",
+                    "ItemTitle": "饮料库存",
+                    "ItemDesc": "充沛的饮料库存",
+                    "Weight":10
+                },
+                {
+                    "ItemId": "38fff084-7dd7-4e0c-acbb-7b83f6f9a159",
+                    "ItemTitle": "客户跟进",
+                    "ItemDesc": "员工是否有按照要求及时跟进客户？",
+                    "Weight":10
+                },
+                {
+                    "ItemId": "3cd14a33-9e48-4249-938f-b5195f4c0629",
+                    "ItemTitle": "晨会",
+                    "ItemDesc": "晨会是否有记录培训内容？",
+                    "Weight":10
+                }
+            ]
+        }
+    ]
+}

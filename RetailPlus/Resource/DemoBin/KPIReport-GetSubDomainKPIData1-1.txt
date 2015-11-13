@@ -1,0 +1,27 @@
+{
+    "Sign": null,
+    "Code": 0,
+    "Desc": "success",
+    "Data": [
+        {
+            "DomainID": "1-1-1",
+            "DomainName": "上海",
+            "Traffic": 173,
+            "TraQty": 48,
+            "ProQty": 65,
+            "Amount": 69757,
+            "IsFavorite": false,
+            "HasChild":1
+        },
+        {
+            "DomainID": "1-1-2",
+            "DomainName": "杭州",
+            "Traffic": 150,
+            "TraQty": 22,
+            "ProQty": 76,
+            "Amount": 12350,
+            "IsFavorite": false,
+            "HasChild":1
+        }
+    ]
+}

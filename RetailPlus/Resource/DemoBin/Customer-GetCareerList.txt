@@ -1,0 +1,43 @@
+{
+    "Sign": "",
+    "Code": 0,
+    "Desc": "",
+    "Data": [
+        {
+            "CareerId": "c7a14bcd-992c-42e2-8c75-0be306050003",
+            "CareerDesc": "企业所有者/合伙人"
+        },
+        {
+            "CareerId": "47effb54-9858-42a1-b2cc-195f084f60db",
+            "CareerDesc": "公司高级管理者"
+        },
+        {
+            "CareerId": "652a7551-c45d-4a09-accf-384be341b4fa",
+            "CareerDesc": "部门总监/经理"
+        },
+        {
+            "CareerId": "a97d184e-808d-415d-80cd-662604d91c9c",
+            "CareerDesc": "公司职员"
+        },
+        {
+            "CareerId": "05cdcd8a-db0e-4c60-9159-9aefb1ea8621",
+            "CareerDesc": "演员/明星"
+        },
+        {
+            "CareerId": "cd6882cc-efd4-4522-9716-a4243332698d",
+            "CareerDesc": "律师/医生"
+        },
+        {
+            "CareerId": "a0e2cb0b-7a14-477d-9977-a95492a69e98",
+            "CareerDesc": "政府公职人员"
+        },
+        {
+            "CareerId": "1654a1c5-ef21-42e7-8616-aa174f2e5b6f",
+            "CareerDesc": "自由职业者"
+        },
+        {
+            "CareerId": "74186dc9-2837-47f4-add6-ac3289b3f487",
+            "CareerDesc": "其他"
+        }
+    ]
+}

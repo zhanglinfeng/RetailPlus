@@ -1,0 +1,21 @@
+{
+    "Sign": "",
+    "Code": 0,
+    "Desc": "",
+    "Data": [
+        {
+            "VendorId": "f6fedf79-ff89-4e51-ab07-ab335a77b2ec",
+            "VendorName": "上海艺辉有限公司",
+            "AssetTypeName": "装修、家具",
+            "BrandInfoId": "00000000-0000-0000-0000-000000000000",
+            "BrandNameCn": null
+        },
+        {
+            "VendorId": "859f42b5-aa6f-4f87-a878-815332a465c9",
+            "VendorName": "上海创维有线公司",
+            "AssetTypeName": "电视、设备",
+            "BrandInfoId": "00000000-0000-0000-0000-000000000000",
+            "BrandNameCn": null
+        }
+    ]
+}

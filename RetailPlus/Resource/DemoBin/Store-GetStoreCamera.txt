@@ -1,0 +1,19 @@
+{
+    "Sign": "",
+    "Code": 0,
+    "Desc": "success",
+    "Data": [
+        {
+            "CameraId": "f1b24e91-656b-4ec2-ae0b-108310f0cdc6",
+            "StoreId": "d4e93f56-fe91-4d16-9855-9a49d4cd4e60",
+            "CameraName": "Camera 1",
+            "CameraUrl": "DEMO"
+        },
+        {
+            "CameraId": "6e6ee856-d6bd-4df9-ba5e-63d47908113f",
+            "StoreId": "d4e93f56-fe91-4d16-9855-9a49d4cd4e60",
+            "CameraName": "Camera 2",
+            "CameraUrl": "DEMO"
+        }
+    ]
+}

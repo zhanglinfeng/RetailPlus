@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="6245" systemVersion="13F34" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none">
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="6238"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="RPStoreManagerViewController">
+            <connections>
+                <outlet property="_lbTitle" destination="WwJ-f6-X0T" id="ylY-ih-poE"/>
+                <outlet property="_svFrame" destination="Pbf-oF-Is7" id="BjF-Wc-7py"/>
+                <outlet property="_viewlist" destination="iHD-Gf-3zd" id="M7u-m4-oqk"/>
+                <outlet property="view" destination="06R-vn-9Cg" id="fMG-vv-Xqt"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="06R-vn-9Cg">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="460"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <scrollView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" id="Pbf-oF-Is7">
+                    <rect key="frame" x="0.0" y="14" width="320" height="446"/>
+                    <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                    <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                </scrollView>
+                <label hidden="YES" opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" text="店铺列表" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="WwJ-f6-X0T">
+                    <rect key="frame" x="13" y="-3" width="136" height="21"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="10"/>
+                    <color key="textColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <imageView hidden="YES" userInteractionEnabled="NO" contentMode="scaleToFill" image="icon_point_active01.png" id="zjH-XH-8L0">
+                    <rect key="frame" x="152" y="6" width="4" height="4"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                </imageView>
+                <imageView hidden="YES" userInteractionEnabled="NO" contentMode="scaleToFill" image="icon_point_noactive01.png" id="GoP-YS-MCw">
+                    <rect key="frame" x="164" y="6" width="4" height="4"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                </imageView>
+            </subviews>
+            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+            <nil key="simulatedStatusBarMetrics"/>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+        </view>
+        <view contentMode="scaleToFill" id="iHD-Gf-3zd" customClass="RPStoreManagerView">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="515"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <subviews>
+                <view contentMode="scaleToFill" id="ip1-VY-OQG">
+                    <rect key="frame" x="7" y="0.0" width="306" height="515"/>
+                    <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                    <subviews>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="MYU-wl-lJn">
+                            <rect key="frame" x="74" y="0.0" width="80" height="44"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <state key="normal" backgroundImage="button_list22.png">
+                                <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                            </state>
+                            <state key="selected" backgroundImage="button_list2.png"/>
+                            <connections>
+                                <action selector="OnStoreMode:" destination="iHD-Gf-3zd" eventType="touchUpInside" id="h7j-Dl-xJb"/>
+                            </connections>
+                        </button>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="IJD-zT-qp1">
+                            <rect key="frame" x="153" y="0.0" width="80" height="44"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <state key="normal" image="button_list11.png">
+                                <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                            </state>
+                            <state key="selected" image="button_list1.png"/>
+                            <connections>
+                                <action selector="OnDomainMode:" destination="iHD-Gf-3zd" eventType="touchUpInside" id="Qqh-8s-N3q"/>
+                            </connections>
+                        </button>
+                        <imageView userInteractionEnabled="NO" alpha="0.29999999999999999" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="icon_link.png" id="aXQ-RU-5LM">
+                            <rect key="frame" x="242" y="0.0" width="64" height="44"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                        </imageView>
+                        <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" alpha="0.29999999999999999" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="nSb-lP-1lP">
+                            <rect key="frame" x="279" y="12" width="27" height="21"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <fontDescription key="fontDescription" type="system" pointSize="11"/>
+                            <color key="textColor" white="0.69999999999999996" alpha="1" colorSpace="calibratedWhite"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="YLB-a3-er2">
+                            <rect key="frame" x="242" y="1" width="64" height="44"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <state key="normal">
+                                <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                            </state>
+                            <connections>
+                                <action selector="OnOwnedStore:" destination="iHD-Gf-3zd" eventType="touchUpInside" id="M4F-Mn-72y"/>
+                            </connections>
+                        </button>
+                        <view clipsSubviews="YES" contentMode="scaleToFill" id="r7p-Zh-wSD">
+                            <rect key="frame" x="0.0" y="44" width="306" height="473"/>
+                            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                            <subviews>
+                                <view contentMode="scaleToFill" id="gDd-YX-Iiu">
+                                    <rect key="frame" x="0.0" y="1" width="306" height="40"/>
+                                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                    <subviews>
+                                        <view clipsSubviews="YES" contentMode="scaleToFill" id="nki-yJ-fxi">
+                                            <rect key="frame" x="6" y="6" width="294" height="28"/>
+                                            <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMaxY="YES"/>
+                                            <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                        </view>
+                                        <view hidden="YES" contentMode="scaleToFill" id="Kno-SJ-PMT">
+                                            <rect key="frame" x="194" y="4" width="106" height="32"/>
+                                            <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxY="YES"/>
+                                            <subviews>
+                                                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="Laj-4x-qRm">
+                                                    <rect key="frame" x="74" y="1" width="32" height="32"/>
+                                                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                                    <state key="normal" image="button_delete1.png">
+                                                        <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                                    </state>
+                                                    <connections>
+                                                        <action selector="OnDeleteDomain:" destination="iHD-Gf-3zd" eventType="touchUpInside" id="cce-pE-904"/>
+                                                    </connections>
+                                                </button>
+                                                <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="yfJ-zB-2yi">
+                                                    <rect key="frame" x="7" y="6" width="74" height="21"/>
+                                                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                                    <fontDescription key="fontDescription" type="system" pointSize="11"/>
+                                                    <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                                    <nil key="highlightedColor"/>
+                                                </label>
+                                            </subviews>
+                                            <color key="backgroundColor" red="0.52941176470588236" green="0.58823529411764708" blue="0.31372549019607843" alpha="1" colorSpace="calibratedRGB"/>
+                                        </view>
+                                    </subviews>
+                                    <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                                </view>
+                                <view clipsSubviews="YES" contentMode="scaleToFill" id="No2-my-3lg" customClass="RPStoreMngNavView">
+                                    <rect key="frame" x="0.0" y="41" width="306" height="40"/>
+                                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                    <subviews>
+                                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="xaY-9b-HYC">
+                                            <rect key="frame" x="0.0" y="0.0" width="48" height="40"/>
+                                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                            <color key="backgroundColor" red="0.52941176470588236" green="0.58823529411764708" blue="0.31372549019607843" alpha="1" colorSpace="calibratedRGB"/>
+                                            <state key="normal" image="button_domainback.png">
+                                                <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                            </state>
+                                            <connections>
+                                                <action selector="OnBackDomain:" destination="No2-my-3lg" eventType="touchUpInside" id="baT-UM-F5l"/>
+                                            </connections>
+                                        </button>
+                                        <view contentMode="scaleToFill" id="CDI-yi-VMJ">
+                                            <rect key="frame" x="48" y="0.0" width="258" height="40"/>
+                                            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                                            <color key="backgroundColor" white="0.80000000000000004" alpha="1" colorSpace="calibratedWhite"/>
+                                        </view>
+                                    </subviews>
+                                    <color key="backgroundColor" white="0.80000000000000004" alpha="1" colorSpace="calibratedWhite"/>
+                                    <connections>
+                                        <outlet property="_viewNavFrame" destination="CDI-yi-VMJ" id="3EC-4G-wge"/>
+                                    </connections>
+                                </view>
+                                <tableView clipsSubviews="YES" contentMode="scaleToFill" style="plain" separatorStyle="none" rowHeight="44" sectionHeaderHeight="22" sectionFooterHeight="22" id="OfN-fG-MGY">
+                                    <rect key="frame" x="0.0" y="41" width="306" height="430"/>
+                                    <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                                    <color key="backgroundColor" white="0.90000000000000002" alpha="1" colorSpace="calibratedWhite"/>
+                                    <color key="separatorColor" red="0.7843137255" green="0.7843137255" blue="0.7843137255" alpha="1" colorSpace="calibratedRGB"/>
+                                    <connections>
+                                        <outlet property="dataSource" destination="iHD-Gf-3zd" id="2QT-sI-6kb"/>
+                                        <outlet property="delegate" destination="iHD-Gf-3zd" id="h6v-v1-pgs"/>
+                                    </connections>
+                                </tableView>
+                            </subviews>
+                            <color key="backgroundColor" white="0.10000000000000001" alpha="1" colorSpace="calibratedWhite"/>
+                        </view>
+                    </subviews>
+                    <color key="backgroundColor" white="0.10000000000000001" alpha="1" colorSpace="calibratedWhite"/>
+                </view>
+            </subviews>
+            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+            <nil key="simulatedStatusBarMetrics"/>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <connections>
+                <outlet property="_btnDomainMode" destination="IJD-zT-qp1" id="wM6-Rl-XuM"/>
+                <outlet property="_btnStoreMode" destination="MYU-wl-lJn" id="Ugf-KN-D4N"/>
+                <outlet property="_ivOwned" destination="aXQ-RU-5LM" id="Xlg-0c-kNF"/>
+                <outlet property="_lbOwnedCount" destination="nSb-lP-1lP" id="tQc-4v-mHc"/>
+                <outlet property="_lbStoreModeTitleDomain" destination="yfJ-zB-2yi" id="Ms0-rk-Cd3"/>
+                <outlet property="_tbContent" destination="OfN-fG-MGY" id="kY5-qo-c3G"/>
+                <outlet property="_viewDomainModeTitle" destination="No2-my-3lg" id="80K-51-eYE"/>
+                <outlet property="_viewFrame" destination="ip1-VY-OQG" id="mYu-fj-6we"/>
+                <outlet property="_viewSearchFrame" destination="nki-yJ-fxi" id="ums-Xz-e8c"/>
+                <outlet property="_viewStoreModeTitle" destination="gDd-YX-Iiu" id="8eb-rM-1e1"/>
+                <outlet property="_viewStoreModeTitleDomain" destination="Kno-SJ-PMT" id="mr3-gm-Kao"/>
+                <outlet property="_viewStoreModeTitleSearch" destination="nki-yJ-fxi" id="cuE-AG-PXy"/>
+            </connections>
+        </view>
+    </objects>
+    <resources>
+        <image name="button_delete1.png" width="32" height="32"/>
+        <image name="button_domainback.png" width="48" height="40"/>
+        <image name="button_list1.png" width="80" height="44"/>
+        <image name="button_list11.png" width="80" height="44"/>
+        <image name="button_list2.png" width="80" height="44"/>
+        <image name="button_list22.png" width="80" height="44"/>
+        <image name="icon_link.png" width="64" height="44"/>
+        <image name="icon_point_active01.png" width="3" height="3"/>
+        <image name="icon_point_noactive01.png" width="3" height="3"/>
+    </resources>
+    <simulatedMetricsContainer key="defaultSimulatedMetrics">
+        <simulatedStatusBarMetrics key="statusBar"/>
+        <simulatedOrientationMetrics key="orientation"/>
+        <simulatedScreenMetrics key="destination" type="retina4"/>
+    </simulatedMetricsContainer>
+</document>

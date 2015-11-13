@@ -1,0 +1,251 @@
+{
+    "Sign": null,
+    "Code": 0,
+    "Desc": null,
+    "Data": [
+    {
+        "StoreInfo": {
+            "StoreCode": "013",
+            "CityName": "上海",
+            "DealerName": "aaa",
+            "Market": null,
+            "ShopMap": "store/Blueprint1.jpg",
+            "Area": null,
+            "DecorationDate": "2012-07-02",
+            "Email": "",
+            "Fax": "-",
+            "StartTime": "10:00",
+            "EndTime": "22:00",
+            "AreaSquare": "0",
+            "WeatherCode": "101010100",
+            "Phone": "",
+            "Blueprints": [
+            {
+                "Id": "101dee4a-2705-4384-8f54-6b4be45b429d",
+                "StoreId": "d064399e-f340-4eac-b15e-feebaa673289",
+                "Name": "Blueprint_635232521816279832",
+                "Url": "store/Blueprint1.jpg"
+            }
+            ],
+            "StoreId": "d064399e-f340-4eac-b15e-feebaa673289",
+            "StoreThumb": "store/Blueprint1.jpg",
+            "BrandName": "Hour Passion",
+            "StoreName": "Airport T3 Demestic ",
+            "StoreAddress": "-",
+            "IsOwn": 1,
+            "IsPerfect": false,
+            "City": "上海",
+            "BitMap": 34224645213,
+            "StoreType": "零售巡店",
+            "PostCode": "",
+            "Organize": "Hour Passion",
+            "ParentDomainId": "00000000-0000-0000-0000-000000000000",
+            "DomainNo": null
+        },
+        "SearchIssues": [
+        {
+            "BoutiqueVisitId": "2ea5a96f-978d-48d5-bcfb-274e4b4e053b",
+            "IssueId": "7adfeac8-37e3-4782-bd62-bc5fae5fcc49",
+            "StoreId": "d064399e-f340-4eac-b15e-feebaa673289",
+            "UserId": "60834b50-fe92-46e1-80db-eb803704e32b",
+            "TemplateName": "日常巡店",
+            "CategoryTag": "TEST",
+            "QuestionnaireTitle": "哈哈",
+            "BoutiqueVisitDate": "2014-09-23",
+            "UserName": "popdong",
+            "Rank": "1",
+            "Issue": {
+                "IssueGid": "7ADFEAC8-37E3-4782-BD62-BC5FAE5FCC49",
+                "Title": "cgh",
+                "IssueDesc": "fgg",
+                "X": 0,
+                "Y": 0,
+                "BlueprintId": "00000000-0000-0000-0000-000000000000",
+                "TaskList": [],
+                "IssueImgs": [
+                {
+                    "ImgData": "store/Blueprint1.jpg",
+                    "RegX": 0,
+                    "RegY": 0,
+                    "RegWidth": 0,
+                    "RegHeight": 0
+                }
+                ]
+            }
+        },
+        {
+            "BoutiqueVisitId": "bf4fa770-f8cb-4167-9b2b-d0e5d969b8ef",
+            "IssueId": "c3cbaa7b-00bd-4240-817f-33102614ace8",
+            "StoreId": "d064399e-f340-4eac-b15e-feebaa673289",
+            "UserId": "60834b50-fe92-46e1-80db-eb803704e32b",
+            "TemplateName": "每日",
+            "CategoryTag": "TEST",
+            "QuestionnaireTitle": "不知道",
+            "BoutiqueVisitDate": "2014-09-23",
+            "UserName": "popdong",
+            "Rank": "1",
+            "Issue": {
+                "IssueGid": "C3CBAA7B-00BD-4240-817F-33102614ACE8",
+                "Title": "ghh",
+                "IssueDesc": "ghu",
+                "X": 0,
+                "Y": 0,
+                "BlueprintId": "00000000-0000-0000-0000-000000000000",
+                "TaskList": [],
+                "IssueImgs": [
+                {
+                    "ImgData": "store/Blueprint1.jpg",
+                    "RegX": 0,
+                    "RegY": 0,
+                    "RegWidth": 0,
+                    "RegHeight": 0
+                }
+                ]
+            }
+        },
+        {
+            "BoutiqueVisitId": "0ebcedb1-a5ba-45d8-a9fc-f43610d53036",
+            "IssueId": "295c7192-c2df-4c80-85a4-517d8b543344",
+            "StoreId": "d064399e-f340-4eac-b15e-feebaa673289",
+            "UserId": "60834b50-fe92-46e1-80db-eb803704e32b",
+            "TemplateName": "不清楚",
+            "CategoryTag": "TEST",
+            "QuestionnaireTitle": "问问",
+            "BoutiqueVisitDate": "2014-09-23",
+            "UserName": "popdong",
+            "Rank": "1",
+            "Issue": {
+                "IssueGid": "295C7192-C2DF-4C80-85A4-517D8B543344",
+                "Title": "vhhh",
+                "IssueDesc": "ggh",
+                "X": 0,
+                "Y": 0,
+                "BlueprintId": "00000000-0000-0000-0000-000000000000",
+                "TaskList": [],
+                "IssueImgs": [
+                {
+                    "ImgData": "store/Blueprint1.jpg",
+                    "RegX": 0,
+                    "RegY": 0,
+                    "RegWidth": 0,
+                    "RegHeight": 0
+                }
+                ]
+            }
+        }
+        ]
+    },
+    {
+        "StoreInfo": {
+            "StoreCode": "140812080618",
+            "CityName": null,
+            "DealerName": null,
+            "Market": null,
+            "ShopMap": "store/Blueprint1.jpg",
+            "Area": null,
+            "DecorationDate": null,
+            "Email": "",
+            "Fax": "",
+            "StartTime": null,
+            "EndTime": null,
+            "AreaSquare": "0",
+            "WeatherCode": "sdf",
+            "Phone": "",
+            "Blueprints": [
+            {
+                "Id": "a8f81152-9357-4268-a818-a5a9206a4411",
+                "StoreId": "cec7c891-183d-4630-bae2-40cfc346531c",
+                "Name": "1",
+                "Url": "store/Blueprint1.jpg"
+            },
+            {
+                "Id": "ff3b25f7-f43f-4268-90f0-1e60298737d3",
+                "StoreId": "cec7c891-183d-4630-bae2-40cfc346531c",
+                "Name": "2",
+                "Url": "store/Blueprint1.jpg"
+            },
+            {
+                "Id": "8f285c60-55cd-48f0-902c-3dfcfc44e6a4",
+                "StoreId": "cec7c891-183d-4630-bae2-40cfc346531c",
+                "Name": "3",
+                "Url": "store/Blueprint1.jpg"
+            },
+            {
+                "Id": "91d5ba10-ad73-45f4-8219-b21daaf36678",
+                "StoreId": "cec7c891-183d-4630-bae2-40cfc346531c",
+                "Name": "3",
+                "Url": "store/Blueprint1.jpg"
+            }
+            ],
+            "StoreId": "cec7c891-183d-4630-bae2-40cfc346531c",
+            "StoreThumb": "store/Blueprint1.jpg",
+            "BrandName": "Flik Flak",
+            "StoreName": "娃娃",
+            "StoreAddress": "",
+            "IsOwn": 0,
+            "IsPerfect": false,
+            "City": "个",
+            "BitMap": 0,
+            "StoreType": null,
+            "PostCode": "",
+            "Organize": null,
+            "ParentDomainId": "00000000-0000-0000-0000-000000000000",
+            "DomainNo": null
+        },
+        "SearchIssues": [
+        {
+            "BoutiqueVisitId": "0b4624f2-9d8c-42bf-8737-476089af6f0b",
+            "IssueId": "de92501d-4295-46a4-a15a-705986d02813",
+            "StoreId": "cec7c891-183d-4630-bae2-40cfc346531c",
+            "UserId": "60834b50-fe92-46e1-80db-eb803704e32b",
+            "TemplateName": "空调",
+            "CategoryTag": "TEST",
+            "QuestionnaireTitle": "预热",
+            "BoutiqueVisitDate": "2014-09-23",
+            "UserName": "popdong",
+            "Rank": "1",
+            "Issue": {
+                "IssueGid": "DE92501D-4295-46A4-A15A-705986D02813",
+                "Title": "kkk",
+                "IssueDesc": "iii",
+                "X": 0,
+                "Y": 0,
+                "BlueprintId": "00000000-0000-0000-0000-000000000000",
+                "TaskList": [],
+                "IssueImgs": [
+                {
+                    "ImgData": "store/Blueprint1.jpg",
+                    "RegX": 446,
+                    "RegY": 332,
+                    "RegWidth": 154,
+                    "RegHeight": 122
+                }
+                ]
+            }
+        },
+        {
+            "BoutiqueVisitId": "0b57d96d-3319-4537-a054-71003a5bf4f5",
+            "IssueId": "cf40f9f4-1914-4686-8ca2-8f45d7bf12cc",
+            "StoreId": "cec7c891-183d-4630-bae2-40cfc346531c",
+            "UserId": "60834b50-fe92-46e1-80db-eb803704e32b",
+            "TemplateName": "和我",
+            "CategoryTag": "TEST",
+            "QuestionnaireTitle": "其他区",
+            "BoutiqueVisitDate": "2014-09-23",
+            "UserName": "popdong",
+            "Rank": "1",
+            "Issue": {
+                "IssueGid": "CF40F9F4-1914-4686-8CA2-8F45D7BF12CC",
+                "Title": "ggg",
+                "IssueDesc": "gggbbfg",
+                "X": 0,
+                "Y": 0,
+                "BlueprintId": "00000000-0000-0000-0000-000000000000",
+                "TaskList": [],
+                "IssueImgs": []
+            }
+        }
+        ]
+    }
+    ]
+}

@@ -1,0 +1,95 @@
+{
+    "Sign": null,
+    "Code": 0,
+    "Desc": "",
+    "Data": {
+        "Replys": [
+        {
+            "Images": [
+            {
+                "ImgId": "7ebc0a97-71b9-4f07-8da5-99010474054e",
+                "RegX": 0,
+                "RegY": 0,
+                "RegWidth": 0,
+                "RegHeight": 0
+            }
+            ],
+            "VisualDisplayDetailId": "9b329abc-9461-47be-b9a7-a3c972d6ec62",
+            "Rank": 3,
+            "UserId": "b7364a2b-ad42-4136-a3da-a9a6e63c870e",
+            "UserName": "林科",
+            "Comments": "很整洁",
+            "Type": 0,
+            "Status": 0,
+            "AddDate": "2014-06-30 17:26:51"
+        },
+        {
+            "Images": [
+            {
+                "ImgId": "7ebc0a97-71b9-4f07-8da5-99010474054e",
+                "RegX": 14.73684,
+                "RegY": 107.7895,
+                "RegWidth": 150.5263,
+                "RegHeight": 489.5439
+            }
+            ],
+            "VisualDisplayDetailId": "4d842998-6433-48cc-b68e-3ab601e9a57a",
+            "Rank": 3,
+            "UserId": "b7364a2b-ad42-4136-a3da-a9a6e63c870e",
+            "UserName": "李雄",
+            "Comments": "往左边移点",
+            "Type": 2,
+            "Status": 0,
+            "AddDate": "2014-06-30 17:31:56"
+        },
+        {
+            "Images": [
+            {
+                "ImgId": "7ebc0a97-71b9-4f07-8da5-99010474054e",
+                "RegX": 11.57895,
+                "RegY": 510.8772,
+                "RegWidth": 317.8947,
+                "RegHeight": 95.4386
+            }
+            ],
+            "VisualDisplayDetailId": "64e17b0b-d90e-40b6-b5b7-26aff8972f03",
+            "Rank": 3,
+            "UserId": "b7364a2b-ad42-4136-a3da-a9a6e63c870e",
+            "UserName": "曹龙",
+            "Comments": "桌子没摆好",
+            "Type": 2,
+            "Status": 0,
+            "AddDate": "2014-06-30 17:32:12"
+        },
+        {
+            "Images": [],
+            "VisualDisplayDetailId": "6f98d447-b7a6-4622-ad38-41ef707c6600",
+            "Rank": 3,
+            "UserId": "b7364a2b-ad42-4136-a3da-a9a6e63c870e",
+            "UserName": "胡明星",
+            "Comments": "窗帘",
+            "Type": 3,
+            "Status": 2,
+            "AddDate": "2014-06-30 22:51:39"
+        }
+        ],
+        "ReplyImgs": [
+        {
+            "ImgId": "7ebc0a97-71b9-4f07-8da5-99010474054e",
+            "UserName": "赵云山",
+            "Rank": 3,
+            "Comments": null,
+            "ImgPath": "visual/0536cae0-30d6-4117-9b14-44da8c5800ff-img.jpg",
+            "ThumbPath": "visual/0536cae0-30d6-4117-9b14-44da8c5800ff-thumbimg.jpg"
+        },
+        {
+            "ImgId": "303429ec-4605-4bd0-a239-b7352d92fd16",
+            "UserName": "杨家绪",
+            "Rank": 3,
+            "Comments": null,
+            "ImgPath": "visual/79ea1594-b094-4dfc-8b51-c9776cced384-img.jpg",
+            "ThumbPath": "visual/79ea1594-b094-4dfc-8b51-c9776cced384-thumbimg.jpg"
+        }
+        ]
+    }
+}

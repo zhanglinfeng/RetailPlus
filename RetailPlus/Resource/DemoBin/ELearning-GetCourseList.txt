@@ -1,0 +1,65 @@
+{
+    "Sign": null,
+    "Code": 0,
+    "Desc": "",
+    "Data": [
+    {
+        "CourseId": "db3c8cff-811e-47bf-9ba6-251f15993396",
+        "CourseTag": "电脑硬件教学",
+        "CourseCode": "CD2",
+        "CourseName": "电脑硬件教学",
+        "CourseDesc": "玩转电脑只要3天",
+        "ThumbImg": "Elearning/el4.jpg",
+        "AddDate": "2014/7/31 17:56:41",
+        "CourseWares": [
+        {
+            "CoursewareId": "4325063e-0316-45de-a15d-ab6c5fdc0259",
+            "CourseId": "db3c8cff-811e-47bf-9ba6-251f15993396",
+            "CoursewareCode": "#01",
+            "CoursewareName": "玩转电脑只要3天",
+            "CoursewareDesc": "计算机基础",
+            "AddDate": "2014/7/31 18:09:09",
+            "IsRead": true,
+            "ThumbImg": "Elearning/el12.jpg",
+            "AttachPath": "ElearningPDF/reportMnt1395808984770.pdf",
+            "HtmlPath": "ElearningPDF/reportVisit1395210271122.pdf"
+        },
+        {
+            "CoursewareId": "208b7dc4-044c-4446-aee6-e6a491b6fb02",
+            "CourseId": "db3c8cff-811e-47bf-9ba6-251f15993396",
+            "CoursewareCode": "#02",
+            "CoursewareName": "外设",
+            "CoursewareDesc": "结构",
+            "AddDate": "2014/7/31 18:45:03",
+            "IsRead": false,
+            "ThumbImg": "Elearning/el6.jpg",
+            "AttachPath": "ElearningPDF/reportInsp1390408990133.pdf",
+            "HtmlPath": "ElearningPDF/reportInsp1395632597036.pdf"
+        }
+        ]
+    },
+    {
+        "CourseId": "caa3a801-04c9-4577-b9cd-654ea848f034",
+        "CourseTag": "数学",
+        "CourseCode": "CD4",
+        "CourseName": "数学",
+        "CourseDesc": "数学速算法",
+        "ThumbImg": "Elearning/el14.jpg",
+        "AddDate": "2014/8/5 16:38:45",
+        "CourseWares": [
+        {
+            "CoursewareId": "d58cfb82-5e06-4eae-b372-8b2aa11a3608",
+            "CourseId": "caa3a801-04c9-4577-b9cd-654ea848f034",
+            "CoursewareCode": "#03",
+            "CoursewareName": "乘法速算",
+            "CoursewareDesc": "速算技巧",
+            "AddDate": "2014/8/5 19:58:14",
+            "IsRead": false,
+            "ThumbImg": "Elearning/el15.jpg",
+            "AttachPath": "Elearning/el15.jpg",
+            "HtmlPath": "Elearning/el15.jpg"
+        }
+        ]
+    }
+    ]
+}

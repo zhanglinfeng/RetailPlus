@@ -1,0 +1,21 @@
+{
+    "Sign": "",
+    "Code": 0,
+    "Desc": "",
+    "Data": [
+        {
+            "TemplateName": "Daily Visiting",
+            "TemplateDesc": "Daily Visiting",
+            "CategoryTag": "Daily Visiting",
+            "CategoryCount": 7,
+            "TemplateId": "1"
+        },
+        {
+            "TemplateName": "日常巡店",
+                "TemplateDesc": "日常巡店",
+                "CategoryTag": "日常巡店",
+                "CategoryCount": 7,
+                "TemplateId": "2"
+        }
+    ]
+}

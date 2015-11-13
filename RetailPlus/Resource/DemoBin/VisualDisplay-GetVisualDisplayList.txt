@@ -1,0 +1,51 @@
+{
+    "Sign": null,
+    "Code": 0,
+    "Desc": null,
+    "Data": [
+    {
+        "VisualDisplayId": "bc337752-61ad-425b-8371-5320531687de",
+        "Title": "客厅布置",
+        "Status": 2,
+        "ImgUrl": "visual/0536cae0-30d6-4117-9b14-44da8c5800ff-thumbimg.jpg",
+        "UserName": "林科",
+        "Rank": 3,
+        "Comments": "蛮干净",
+        "X": 0,
+        "Y": 0
+    },
+    {
+        "VisualDisplayId": "b0ffe8d5-1300-4c77-bb37-14f3148dd08b",
+        "Title": "房间布置",
+        "Status": 0,
+        "ImgUrl": "visual/5393163c-f5f9-4cb2-9b23-5f90bdd8a034-thumbimg.jpg",
+        "UserName": "李雄",
+        "Rank": 3,
+        "Comments": "很好",
+        "X": 132.9531,
+        "Y": 316.1562
+    },
+    {
+        "VisualDisplayId": "db208867-469b-4436-ad6d-303a014ccbf8",
+        "Title": "大厅布置",
+        "Status": 1,
+        "ImgUrl": "visual/3cbd9801-a519-4f88-83e3-ae94d80337ba-thumbimg.jpg",
+        "UserName": "赵云山",
+        "Rank": 3,
+        "Comments": "赵云山",
+        "X": 537.0469,
+        "Y": 317.2031
+    },
+    {
+        "VisualDisplayId": "0d49e23a-a044-49f6-9e7f-797718652488",
+        "Title": "起居室布置",
+        "Status": 0,
+        "ImgUrl": "visual/62f99b55-f0f9-4592-8d54-0a7b7c9f3bc4-thumbimg.jpg",
+        "UserName": "杨家绪",
+        "Rank": 3,
+        "Comments": "",
+        "X": 0,
+        "Y": 0
+    }
+    ]
+}

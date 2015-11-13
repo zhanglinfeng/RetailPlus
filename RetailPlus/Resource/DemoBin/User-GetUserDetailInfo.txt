@@ -1,0 +1,49 @@
+{
+    "Sign": null,
+    "Code": 0,
+    "Desc": "",
+    "Data": {
+        "UserId": "163ef028-8b9d-4f86-b5fc-1c01d9655bee",
+        "ReportToId": "00000000-0000-0000-0000-000000000000",
+        "UserCode": "RP88888933",
+        "UserAcount": "13917852728",
+        "UserEmail": null,
+        "ReportTo": "Lucy Liu",
+        "FirstName": "Lucy",
+        "SurName": "Liu",
+        "JoinDate": "2014-03-14 17:22:31",
+        "Birthday": "1970-01-01 00:00:00",
+        "BirthYear": 1985,
+        "BirthDate": "03-02",
+        "IsPublicAge": false,
+        "Enterpise": "",
+        "Portrait": "user_doc/13000000077/635306719677184235_3.jpg",
+        "OfficePhoneNumber": "",
+        "OfficeAddress": "",
+        "Gender": 3,
+        "IsLoginProtection": false,
+        "AlternatePhone": "",
+        "Interest": "旅行",
+        "WorkEmail": "ivyliu@r-vision-group.com",
+        "Title": "华东区区域经理",
+        "Rank": 1,
+        "DomainName": "华东区",
+        "RoleName": "区域经理",
+        "Tag1": null,
+        "Tag2": null,
+        "Tag3": null,
+        "Status": 1,
+        "EditPermission": true,
+        "DeletePermission": true,
+        "DefaultPositionId": "a84228b2-2c8b-4831-ab5d-26ae791a89d6",
+        "UserPositionList": [
+            {
+                "PostionId": "a84228b2-2c8b-4831-ab5d-26ae791a89d6",
+                "PostionName": "经理",
+                "RoleId": "ad1796f9-e186-4e4e-b04a-d33fba92e5c3",
+                "RoleName": "Country Manager",
+                "Rank": 1
+            }
+        ]
+    }
+}

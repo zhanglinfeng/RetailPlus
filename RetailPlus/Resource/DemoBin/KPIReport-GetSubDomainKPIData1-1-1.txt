@@ -1,0 +1,57 @@
+{
+    "Sign": null,
+    "Code": 0,
+    "Desc": "success",
+    "Data": [
+        {
+            "DomainID": "0",
+            "DomainName": "FLN(嘉里中心店)",
+            "Traffic": 63,
+            "TraQty": 25,
+            "ProQty": 33,
+            "Amount": 35721,
+            "IsFavorite": false,
+            "HasChild":0
+        },
+        {
+            "DomainID": "0",
+            "DomainName": "FLN(上海久光店) ",
+            "Traffic": 54,
+            "TraQty": 16,
+            "ProQty": 21,
+            "Amount": 22857,
+            "IsFavorite": false,
+            "HasChild":0
+        },
+        {
+            "DomainID": "0",
+            "DomainName": "FLN(上海虹桥店)",
+            "Traffic": 59,
+            "TraQty": 24,
+            "ProQty": 29,
+            "Amount": 33485,
+            "IsFavorite": false,
+            "HasChild":0
+        },
+        {
+            "DomainID": "0",
+            "DomainName": "FLN(恒隆店)",
+            "Traffic": 144,
+            "TraQty": 45,
+            "ProQty": 66,
+            "Amount": 72390,
+            "IsFavorite": false,
+            "HasChild":0
+        },
+        {
+            "DomainID": "0",
+            "DomainName": "FLN(APM店)",
+            "Traffic": 110,
+            "TraQty": 23,
+            "ProQty": 32,
+            "Amount": 34036,
+            "IsFavorite": false,
+            "HasChild":0
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "Sign": "",
+    "Code": 0,
+    "Desc": "",
+    "Data": [
+        {
+            "ICType": 0,
+            "Count": 0
+        },
+        {
+            "ICType": 1,
+            "Count": 2
+        },
+        {
+            "ICType": 2,
+            "Count": 0
+        }
+    ]
+}

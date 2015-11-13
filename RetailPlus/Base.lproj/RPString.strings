@@ -1,0 +1,644 @@
+/* 
+  NEWString.strings
+  RetailPlus
+
+  Created by zhanglinfeng on 14-5-13.
+  Copyright (c) 2014年 lin dong. All rights reserved.
+*/
+/*****************************UI*********************************/
+//System
+"KPI LIVE" = "KPI LIVE";
+"DOCUMENT LIVE" = "DOCUMENT LIVE";
+"TASK LIVE" = "TASK LIVE";
+
+//Menu
+"Management" = "Management";
+"Customer" = "Customer";
+"Operation"="Operation";
+"Training"="Training";
+"Consulting"="Consulting";
+
+
+
+"m-Courtesy Call" = "Courtesy Call";
+"m-Daily Log" = "Daily Log";
+"m-Maintenance"="Boutique Maintenance";
+"m-Code Query"="Code Query";
+"m-Boutique Visit" = "Boutique\rVisiting";
+"m-KPI Data Entry"="KPI Management";
+"m-Handover"="Project Handover";
+"m-Inspection"="Boutique Inspection";
+"m-Live Video" = "Live Video";
+"m-Folder"="Public Files";
+"m-ConfCall"="Conference Call";
+"m-Visual Merchandising"="Visual Merchandising";
+"m-RetailConsult"="Retail Consulting";
+"m-DailyStock"="Daily Stock";
+"m-E-Learning"="E-Learning";
+
+//Title
+"ABOUT RETAIL PLUS" = "ABOUT\r\nRETAIL PLUS";
+"BIND EMAIL" = "BIND EMAIL";
+"CHANGE EMAIL BINDING" = "CHANGE EMAIL BINDING";
+"ACCOUNT SECURITY" = "ACCOUNT SECURITY";
+"LOGIN PROTECTION"="LOGIN\nPROTECTION";
+"LOGIN AUTOMATICALLY"="LOGIN \nAUTOMATICALLY";
+"ACCOUNT MANAGEMENT" = "ACCOUNT MANAGEMENT";
+"CHANGE PASSWORD" = "CHANGE\r\nPASSWORD";
+"INTERNAL CONTACTS" = "INTERNAL CONTACTS";
+"BOUTIQUE VISIT"="BOUTIQUE\nVISITING";
+"CACHE MANAGEMENT"="CACHE MANAGEMENT";
+"SECURITY VERIFICATION" = "SECURITY VERIFICATION";
+"QR CODE QUERY"="CODE QUERY";
+"COLLEAGUE CARD" = "COLLEAGUE CARD";
+"COURTESY CALL"="COURTESY CALL";
+"CLIENT CARD"  = "CLIENT CARD";
+"CLIENT PROFILE"="CLIENT PROFILE";
+"PURCHASE RECORD"="PURCHASE RECORD";
+"PROJECT INSPECTION"="BOUTIQUE INSPECTION";
+"SECURITY VERIFYING" = "SECURITY VERIFYING";
+"PERSONAL PROFILE" = "PERSONAL PROFILE";
+"USER PROFILE"="USER PROFILE";
+"LANGUAGE SETTING" = "LANGUAGE SETTING";
+"FEEDBACK" = "FEEDBACK";
+"EDIT NAME" = "EDIT\r\nNAME";
+"FORWARD DOCUMENT" = "FORWARD\r\nDOCUMENT";
+"KPI DATA INPUT" = "KPI\r\nDATA INPUT";
+"CONSTRUCTION VISIT" = "CONSTRUCTION\n VISIT";
+"BOUTIQUE MAINTENANCE" = "BOUTIQUE\n MAINTENANCE";
+"BOUTIQUE HANDOVER" = "PROJECT\n HANDOVER";
+"INVITE NEW COLLEAGUE" = "INVITE NEW COLLEAGUE";
+"NEW CUSTOMER" = "NEW CUSTOMER";
+"STORE CARD" = "STORE CARD";
+"PROFILE" = "PROFILE";
+"SIGN UP" = "SIGN UP";
+"KPI MANAGEMENT"="KPI MANAGEMENT";
+"LIVE VIDEO"="LIVE VIDEO";
+"DATE\nSETTING"="DATE\nSETTING";
+"SPECIFY\nRANGE"="SPECIFY\nRANGE";
+"STORE PROFILE EDIT" = "STORE\nPROFILE EDIT";
+"INFOMATION CENTER"="INFORMATION CENTER";
+"DAILY LOG"="DAILY LOG";
+"TRAINING COURSEWARE"="PUBLIC FILES";
+"CONFERENCE CALL"="CONFERENCE CALL";
+"VISUAL MERCHANDISING"="VISUAL\n MERCHANDISING";
+"RETAIL CONSULTING"="RETAIL\n CONSULTING";
+"DAILY STOCK"="DAILY\nSTOCK";
+"E-LEARNING"="E-LEARNING";
+"TASK INFORMATION"="TASK\n INFORMATION";
+//问候回访
+"Select customer"="Select customer";
+"Select call purpose"="Select call purpose";
+"There is NO call record in this store yet..."="There is NO call record in this store yet...";
+"PURPOSE ANALYSIS"="PURPOSE ANALYSIS";
+"CALLER ANALYSIS"="CALLER ANALYSIS";
+"CUSTOMER ANALYSIS"="CUSTOMER ANALYSIS";
+"PLAN TO FINISH IN"="PLAN TO FINISH IN";
+"ACTUAL FINISH TIME"="ACTUAL FINISH TIME";
+"START TIME"="START TIME";
+"PLAN TIME"="PLAN TIME";
+"REMARKS"="REMARKS";
+"CALL PURPOSE"="CALL PURPOSE";
+"MAKE   PLAN"="MAKE   PLAN";
+"CHECK   PLAN"="CHECK   PLAN";
+"NO        PLAN"="NO        PLAN";
+"CALL GUIDE"="CALL GUIDE";
+
+//编码查询
+"Align the QR Code within the frame to scan"="Align the QR Code within the frame to scan";
+//登录
+"SEND" = "SEND";
+"GET CODE"= "GET CODE";
+"SEND AGAIN"="SEND AGAIN";
+//零售巡店
+"All Catagory" = "All Catagory";
+"Report Delivering"="Report Delivering";
+"CHECK:"="CHECK:";
+"NO FLOOR PLAN UPLOADED"="NO FLOOR PLAN UPLOADED";
+"New tasks"="New tasks";
+"Duplicated from issues"="Duplicated from issues";
+"New task"="New task";
+"Please select performer"="Please select performer";
+"Please select deadline"="Please select deadline";
+"Confirm to DELETE the task?"="Confirm to DELETE the task?";
+//KPI中心
+"the day before"="the day before";
+"The Same Day in Last Week"="Same Day Last Week";
+"The Same Day in Last Month"="Same Day Last Month";
+"The Same Day in Last Year"="Same Day Last Year";
+"Daily Average in Last Week"="Daily Average Last Week";
+"Daily Average in Last Month"="Daily Average Last Month";
+"Daily Average in Last Year"="Daily Average Last Year";
+"Last Week"="Last Week";
+"The Same Week in Last Year"="Same Week Last Year";
+"Weekly Average in Last Year"="Weekly Average Last Year";
+"Last Month"="Last Month";
+"The Same Month in Last Year"="Same Month Last Year";
+"Monthly Average in Last Year"="Monthly Average Last Year";
+"Last Season"="Last Season";
+"The Same Season in Last Year"="Same Season Last Year";
+"Seasonly Average in Last Year"="Seasonly Average Last Year";
+"Last Year"="Last Year";
+"Annual Average in History"="Historical Annual Average";
+
+"Traffic"="Traffic";
+"Conversion Rate"="Conversion Rate(%)";
+"TraQty"="Transaction Quantity";
+"ProQty"="Product Quantity";
+"Amount"="Amount";
+
+"Tendency Chart"="Tendency Chart";
+"Compare Chart"="Compare Chart";
+"Refresh"="Refresh";
+"Zoom Out"="Zoom Out";
+//KPI录入
+"Record by hour"="Record by hour";
+"Record by day"="Record by day";
+"MODE"="MODE";
+//文档中心
+"Selected Document" = "Selected Document";
+//项目验收
+"BAD" = "BAD";
+"NORMAL" = "NORMAL";
+"GOOD" = "GOOD";
+"GREAT" = "GREAT";
+"EXCELLENT" = "EXCELLENT";
+
+//交接本
+"Today"="Today";
+"The search result is empty"="The search result is empty";
+"Have read"="Read";
+"You want to..."="You want to...";
+"Mark as \"Read\""="Mark as \"Read\"";
+"Make comments"="Make comments";
+"Hide comments"="Hide comments";
+"HANDOVER LOG BOOK"="HANDOVER LOG BOOK";
+"The theme cannot be empty"="The theme cannot be empty";
+"The title or content cannot be empty"="The title or content can't be empty";
+"The title or content is too long"="The title or content is too long";
+"The comment cannot be empty"="The comment can't be empty";
+"The comment is too long"="The comment is too long";
+"Current store only"="Current store only";
+"All available store"="All available store";
+"All available stores"="All available stores";
+"ALL STORES"="ALL STORES";
+"Title"="Title";
+"Text"="Text";
+"THEME CATEGORIES"="THEME CATEGORIES";
+"CATEGORIES"="CATEGORIES";
+"All Theme"="All Theme";
+"Other"="Other";
+
+//店铺报修
+"Maintenance Application Created" = "Maintenance Application Created";
+"other" = "other";
+"Store Contact"="Store Contact";
+"Current data will be erased!\r\nConfirm to exit maintenance?" = "Do you want to quit and save current work?";
+"This store dose not have any maintenance vendor"="This store dose not have any maintenance vendor";
+
+//消息中心
+"Now"="Now";
+"hour ago"="hour ago";
+"min ago"="min ago";
+"sec ago"="sec ago";
+"Message"="Message";
+"Reports"="Reports";
+"Tasks"="Tasks";
+
+"Business"="Business";
+"Environment"="Environment";
+
+"Hold to talk"="Hold to talk";
+"Move up to cancel"="Move up to cancel";
+"Release to cancel"="Release to cancel";
+"Delete the record?"="Delete the record?";
+"Yes"="Yes";
+"No"="No";
+"Converting..."="Converting...";
+
+//电话会议
+"You wan to ..."="You wan to ...";
+"EDIT HOST INFORMATION"="EDIT HOST INFORMATION";
+"CHOOSE FROM R+ CONTACT"="CHOOSE FROM R+ CONTACT";
+"NEW ACCOUNT"="NEW ACCOUNT";
+"Start conference immediately?"="Start conference immediately?";
+"Confirm to delete booking conference?"="Confirm to delete booking conference?";
+"Connected"="Connected";
+"Conference is closed"="Conference is closed";
+"There is no holding conference exist"="There is no holding conference exist";
+"Book time can not be empty"="Book time can not be empty";
+"Invite one user at least"="Invite one user at least";
+"This meeting may not be booked by yourself, please be careful.\nConfirm to continue?"="This meeting may not be booked by yourself, please be careful.\nConfirm to continue?";
+"Confirm to close conference?"="Confirm to close conference?";
+"Are you sure to delete this account?"="Are you sure to delete this account?";
+
+//点数本
+"CLOSE COUNTING"="CLOSE COUNTING";
+"CURRENT STOCK"="CURRENT STOCK";
+//e-learning
+"UPLOAD ALL"="UPLOAD ALL";
+"1 VALID ANSWER"="1 VALID ANSWER";
+"MULTIPLE ANSWER"="MULTIPLE ANSWER";
+"Test result to be uploaded"="Test result to be uploaded";
+"Course #"="Course #";
+"Courseware #"="Courseware #";
+
+//视觉陈列
+"PENDING"="PENDING";
+"REJECT"="REJECT";
+"PASS"="PASS";
+
+//Infomation center
+"System Notification"="System Notification";
+"Administrator Notification"="Administrator Notification";
+"Broadcast:"="Broadcast:";
+
+/*****************************ERROR*********************************/
+//System很多地方通用
+"failure"="failure";
+"Submit Success" = "Submit Success";
+"Submit Failed!\r\n Add to local submit array" = "Submit Failed!\r\n Add to local submit array";
+"Submit Failed" = "Submit Failed";
+
+
+"Quit Success"="Quit Success";
+"Quit Error"="Quit Error";
+
+"Successfully deleted"="Successfully deleted";
+"Delete failed"="Delete failed";
+
+"The password is too short,please re-setting"="The password is too short,please re-setting";
+"The password is too long,please re-setting"="The password is too long,please re-setting";
+"There is a risk to use current password,please re-setting"="There is a risk to use current password,please re-setting";
+"The password cannot be same as username,please re-setting"="The password cannot be same as username,please re-setting";
+"Old password can't be empty"="Old password can't be empty";
+
+"Verify Error" = "Verify Error";
+"Temporarily no data"="Temporarily no data";
+"Saved"="Saved";
+
+//文档中心
+"Forwarding failure!"="Forwarding failure!";
+"Loading document list"="Loading document list";
+
+//通讯录
+"Invite Error"="Invite Error";
+"Invite Success"="Invite Success";
+"Show which tag only?"="Show which tag only?";
+"(No limitation)"="(No limitation)";
+
+"Reset succesfully"="Reset succesfully";
+"POSITION MANAGEMENT"="POSITION MANAGEMENT";
+"Position"="Position";
+"Role Definition"="Role Definition";
+
+"Confirm to reset the password of this user?"="Confirm to reset the password of this user?";
+"UNLock User"="UNLock User";
+"Lock User"="Lock User";
+"Confirm to Lock this user?"="Confirm to Lock this user?";
+"Confirm to UNLock this user?"="Confirm to UNLock this user?";
+
+//视频直播
+"Start Live Video Failed"="Start Live Video Failed";
+//店铺报修
+"Data initialize failed" = "Data initialization failed";
+/*******************Prompt 提示文字*****************************/
+//System 很多地方通用
+"OK" = "OK";
+"CANCEL" = "CANCEL";
+"Cancel"="Cancel";
+"YES"="YES";
+"NO"="NO";
+
+"Loading..."="Loading...";
+"Last updated:"="Last updated:";
+"Pull down to refresh..."="Pull down to refresh...";
+"Loosen to refresh..."="Loosen to refresh...";
+
+"Network Unavailable\rPlease check your network"="Network Unavailable\rPlease check your network";
+
+"Have Problems in using?You can..."="Have Problems to use?\nYou can...";
+"Call to ask for help?"="Call to ask for help?";
+"DAIL HOT LINE OF CUSTOMER SERVICE"="DAIL HOT LINE";
+"VIEW THE USER GUIDE"="VIEW THE USER GUIDE";
+
+"Confirm to exit?"="Confirm to exit?";
+
+"Submitting..." = "Submitting...";
+
+"Network not found"="Network not found";
+"No WLAN connection. Confirm to upload now?"="No WLAN connection. Confirm to view the document now?";
+
+"Please wait..." = "Please wait...";
+
+"Please select the image source type?" = "Please select the image source type";
+"Camera" = "Camera";
+"Photo Library" = "Photo Library";
+
+"DELETE"="DELETE";
+"Quit..."="Quit...";
+
+"SAVE"="SAVE";
+"DON'T SAVE"="DON'T SAVE";
+"Save changes before leave?"="Save changes before exit?";
+"No more than 9 digits"="No more than 9 digits";
+
+"Confirm to delete?"="Confirm to delete?";
+"CALL"="CALL";
+
+"Catagory is empty" = "Category is empty";
+"ErrorCode" = "ErrorCode";
+//About
+"Latest Version" = "Latest Version";
+"CHECK NEW VERSION" = "CHECK\r\nNEW VERSION";
+"Update Now(Recommond)"="Update Now(Recommended)";
+"Update Now(Necessary)"="Update Now(Must Do)";
+
+//问候回访
+"Customer or call purpose can't be empty"="Customer or call purpose can't be empty";
+"Remarks length should not exceed 300 characters"="Remarks length should not exceed 300 characters";
+"Actual finish time can't be empty"="Actual finish time can't be empty";
+"Select staff"="Select staff";
+"Select purpose"="Select purpose";
+"Select analysis type"="Select analysis type";
+"Please select phone No."="Please select phone No.";
+"Connecting..."="Connecting...";
+"Dialing..."="Dialing...";
+
+//通讯录
+"You do not have the authority to do this task"="You do not have the authority to do this task";
+"CUSTOMER LIST" = "CUSTOMER LIST";
+
+"Inviting..."="Inviting...";
+//零售巡店
+"Comments length should not exceed 300 characters"="Comments length should not exceed 300 characters";
+
+"There can be 10 issues at the most in one problem"="There can be 10 issues at the most in one problem";
+"There can be 200 issues at the most in total"="There can be 200 issues at the most in total";
+"CATEGORY"="CATEGORY";
+"There are still some Items not checked. Do you want to mark them as N/A"="There are still some Items not checked. Do you want to mark them as N/A";
+
+"Confirm to delete this issue?" = "Confirm to delete this issue?";
+"Store layout is empty" = "Store layout is empty";
+"Confirm to delete this picture?" = "Confirm to delete the picture?";
+"Title is empty" = "Title is empty";
+"Commentary is empty"="Commentary is empty";
+"Report title can't be empty" = "Report title can't be empty";
+"Description is empty" = "Description is empty";
+"Title length should not exceed 50 characters"="Title length should not exceed 50 characters";
+"Describe length should not exceed 300 characters"="Describe length should not exceed 300 characters";
+"whether to delete the issue"="Delete the issue?";
+"Getting reports..." = "Getting reports...";
+"No issues exist" = "No issue exists";
+"The store records will be empty, whether start new visiting?"="The store record will be cleared, do you need to start a new visit?";
+"No Store Selected" = "No Store Selected";
+"Existing cache,if you continue, the cache will be empty"="Existing cache,if you continue, the cache will be empty";
+"CONTINUE"="CONTINUE";
+"The cache does not exist"="The cache does not exist";
+"This store have no unfinished report"="This store have no unfinished report";
+"Current data will be erased!\r\nConfirm to exit Boutique Visit?"="Current data will be erased!\r\nConfirm to exit Boutique Visit?";
+"categories"="categorie(s)";
+"The choosed reports will be sent."="The choosed reports will be sent.";
+"Please Choose at least one issue"="Please Choose at least one issue";
+"Can't be closed with issues"="Can't be closed with issues";
+"NO,KEEP THEM EMPTY"="NO,KEEP THEM EMPTY";
+"TOUCH TO OPEN"="TOUCH TO OPEN";
+"(Unfinished)"="(Unfinished)";
+"Boutique Visit Reportt"="Boutique Visit Reportt";
+"N/A"="N/A";
+"Confirm to give up the task and go back?"="Confirm to give up the task and go back?";
+"No issues exist"="No issues exist";
+"Assign tasks at once?"="Assign tasks at once?";
+//设置
+"Confirm to clear selected cache(s)?"="Confirm to clear selected cache(s)?";
+"There is no selected cache can clean"="There is no selected cache can clean";
+
+"Repeat Password is different" = "Repeat Password is different";
+"Changing password..." = "Changing password...";
+"Change Password Success" = "Change Password Success";
+"Change Password Error" = "Change Password Error";
+
+"Found new version" = "Found new version";
+"Update" = "Update";
+"Check Version Error" = "Check Version Error";
+
+"Your feedback is submitted.Thank you very much!"="Your feedback is submitted.Thank you very much!";
+"Feedback is empty" = "Feedback is empty";
+"New password can't be empty"="New password can't be empty";
+"Repeat password can't be empty"="Repeat password can't be empty";
+"Email address format is not correct"="Email address format is not correct";
+//登录
+"Verify Code is sent"="Verification Code is sent";
+"Mobile Phone Number Verified,\r\nSet Your new password" = "Mobile Phone Number Verified,\r\nSet Your new password";
+"Email Verified,\r\nSet Your new password" = "Email Verified,\r\nSet Your new password";
+
+"Verify Code is empty" = "Verification Code is empty";
+"Get Verify Code error" = "Errors while getting verification code";
+"Verify Error"="Verify Error";
+"Password Empty"="Password Empty";
+"Password Not Match"="Password doesn't Match";
+
+"Username/Password Empty" = "Username/Password Empty";
+"Log In..." = "Log In...";
+"Log In Failed" = "Log In Failed";
+"Please input Mobile Phone Number/PR ID" = "Please input Mobile Phone Number/PR ID";
+"An Identifying Code has been sent to your bound mobile phone.Please input the code to get through the verification" = "A verification code has been sent to the mobile phone number you registered with us.Please type in the code to pass the verification process";
+
+"An Identifying Code has been sent to your bound email.Please input the code to get through the verification" = "An verification code has been sent to the email you registered with us.Please type in the code to pass the verification process";
+"Password error"="Password error";
+"Password verification"="Password verification";
+"Login failed five times\n need to verify"="Login failed five times\n need to verify";
+
+"Phone Number Empty" = "Phone Number Empty";
+"Verfying..." = "Verifying...";
+"Connect server failed"="Connect server failed";
+"Setting User Profile..."="Setting User Profile...";
+"The network connection is not stable or available"="The network connection is not stable or available";
+//编码查询
+"QUERY FAILED"="QUERY FAILED";
+//KPI中心
+"Select the column you want to display"="Select the column you want to display";
+//客户卡
+"Whether unbinding?"="Whether unbinding?";
+"FEMALE"="FEMALE";
+"MALE"="MALE";
+"CAREER"="CAREER";
+"Address length should not exceed 300 characters"="Address length should not exceed 300 characters";
+"Children describe length should not exceed 300 characters"="Children describe length should not exceed 300 characters";
+"Interesting length should not exceed 300 characters"="Interesting length should not exceed 300 characters";
+"MemorialDays describe length should not exceed 300 characters"="MemorialDays describe length should not exceed 300 characters";
+"Name length should not exceed 20 characters"="Name length should not exceed 20 characters";
+"Mobile phone number or \n name cannot be empty"="Mobile Phone/Customer Name can't be empty";
+"Mobile phone number\n must be numeric"="Mobile phone number\n must be a number";
+"The year of birth is out of range"="The year of birth is out of range";
+"There is customer have the same mobile phone number,do you want to add the customer"="There is customer have the same mobile phone number,do you want to add the customer";
+//KPI录入
+"Whether to quit KPI data entry tool"="Whether to quit KPI data entry tool";
+"Save changes before search?"="Save changes before search?";
+"Data of this day is modified,do you want to save before switch date?"="Data of this day is modified,do you want to save before switch date?";
+"There is no modifications can be saved"="There is no modifications can be saved";
+"modifications is saving"="modifications is saving";
+"First select a store"="Select a store first";
+//文档中心
+"Confirm to continue editing?"="Confirm to continue editing?";
+"Forwarding..."="Forwarding...";
+"No WLAN connection. Confirm to view document now?" = "No WLAN connection. Confirm to view document now?";
+//消息中心
+"Your message will be sent to all employees in"="Your message will be sent to all %@ employees";
+//项目验收
+"No location is assigned" = "No location is assigned";
+"No Inspection Data Existed" = "No Inspection Data Existed";
+"Created Inspection Reports" = "Created Inspection Reports";
+"Created Rectifying Reports" = "Created Rectifying Reports";
+"Current data will be erased!\r\nConfirm to exit boutique handover?" = "Do you want to quit project handover and save current work?";
+"Current data will be erased!\r\nConfirm to exit?"="Current data will be erased!\r\nConfirm to exit?";
+
+//main
+"Your account has been frozen."="Your account has been frozen.";
+"Your account has been logined in other place, please note the account security."="Your account has been logged in different device, please be cautious about your account safety.";
+"Current task will be closed,confirm to continue?"="Current task will be closed,confirm to continue?";
+"Connect to server is expired, please relogin"="Connect to server is expired, please relogin";
+//购买记录
+"Touch + to add Purchase Record"="Touch + to add Purchase Record";
+"Product name or unitprice \n or QTY cannot be empty"="Product Name/Price/QTY can't be empty";
+"QTY and unitprice \n must be numeric"="QTY and unitprice \n must be a number";
+"Whether to discard changes?"="Discard changes?";
+
+//店铺巡检
+"Not Scored" = "Not Scored";
+"Comments Empty" = "Comments Empty";
+"Current data will be erased!\r\nConfirm to exit visiting?" = "Do you want to quit and save current work?";
+
+"Visiting Report Created" = "Report Created";
+
+//视觉陈列
+"Input Message"="Message";
+"Title cannot be empty"="Title cannot be empty";
+"At least need one picture"="At least need one picture";
+"Change the project status to pass"="Change the project status to pass";
+"Change the project status to approval"="Change the project status to approval";
+"Change the project status to unqualified"="Change the project status to unqualified";
+"LOCATE"="LOCATE";
+"LOCATED"="LOCATED";
+"New Merchandising"="New Merchandising";
+"Remark"="Remark";
+"Use the default title:NEW VM SHOW?"="Use the default title:NEW VM SHOW?";
+"NO.I WILL INPUT A NEW TITLE"="NO.I WILL INPUT A NEW TITLE";
+"downloaded"="downloaded";
+"NEW VM SHOW"="NEW VM SHOW";
+//零售咨询
+"Content can't be empty"="Content can't be empty";
+//点数本
+"Number must be greater than 0"="Number must be greater than 0";
+"Stepping number can't be 0"="Stepping number can't be 0";
+"Stepping number no more than 999"="Stepping number no more than 999";
+"Count no more than 99999"="Count no more than 99999";
+"Reason cannot be empty"="Reason cannot be empty";
+"Undefined"="Undefined";
+
+//在线考试
+"The examination paper answer cannot be empty"="The examination paper answer cannot be empty";
+"NO SCORE"="NO SCORE";
+"LATEST SCORE"="LATEST SCORE";
+
+
+
+
+/****************************旧版*****************************/
+/*
+ RPString.strings
+ RetailPlus
+ 
+ Created by lin dong on 13-11-6.
+ Copyright (c) 2013年 lin dong. All rights reserved.
+ */
+
+
+
+
+
+
+
+//"m-Analytics" = "Analytics";
+//"m-Development" = "Development";
+//"m-After Service" = "After Service";
+//"m-Communication"="Communication";
+//"m-Event Planner"="Event Planner";
+//
+//"m-Daily Log" = "Daily Log";
+//"m-Expense"="Expense";
+//"m-Media Information"="Media Information";
+//"m-Market Information"="Market Information";
+//"m-Attendance"="Attendance";
+//"m-OT"="OT";
+//"m-Conference"="Conference";
+//
+//"m-Retail Visit"="Retail Visit";
+//"m-Mystery Shopper"="Mystery Shopper";
+//"m-PA"="PA";
+//"m-Inventory"="Inventory";
+//"m-Traffic Report"="Traffic Report";
+//"m-Sales Report"="Sales Report";
+//
+//
+//
+//
+//"m-VM"="VM";
+//"m-CCTV"="CCTV";
+//"m-BD"="BD";
+//
+//"m-Daily Task"="Daily Task";
+//"m-New Store"="New Store";
+//"m-on-board traning"="on-board traning";
+//
+//
+//"Clients Profile" = "Clients Profile";
+//"Clients Follow-up" = "Clients Follow-up";
+//"Clients Complaint" = "Clients Complaint";
+//
+//"Clients Repair" = "Clients Repair";
+//"Event Tracing" = "Event Tracing";
+//
+//"Daily Task" = "Daily Task";
+//"Boutique Maintenance" = "Boutique Maintenance";
+//"Handover Log Book" = "Handover Log Book";
+//
+//"Boutique Cost" = "Boutique Cost";
+//"Boutique Opening" = "Boutique Opening";
+//"Media Feedback" = "Media Feedback";
+//"Market Study" = "Market Study";
+//
+//
+//"Handover Log Book"="Handover Log Book";
+//"Construction Visit"="Construction Visit";
+//
+//"VM report" = "VM report";
+//
+//"Conference call" = "Conference call";
+//"Traffic Report" = "Traffic Report";
+//"Real-time Stock" = "Real-time Stock";
+//"Boutique Handover" = "Boutique Handover";
+//"KPI Reports" = "KPI Reports";
+//
+//"Business Development" = "Business Development";
+//
+//"Performance Evaluation" = "Performance Evaluation";
+//"OT management" = "OT management";
+//"Attendance" = "Attendance";
+//
+//"On board training" = "On board training";
+//
+//"Mystery shopping" = "Mystery shopping";
+//"Action Plan" = "Action Plan";
+//
+//
+//"INFO LIVE" = "INFO LIVE";
+//"TASK LIVE" = "TASK LIVE";
+
+
+
+
+
+
+
+

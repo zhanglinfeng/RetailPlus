@@ -1,0 +1,17 @@
+{
+    "Sign": null,
+    "Code": 0,
+    "Desc": "success",
+    "Data": [
+        {
+            "DomainID": "0",
+            "DomainName": "广州汇杰百货",
+            "Traffic": 273,
+            "TraQty": 90,
+            "ProQty": 100,
+            "Amount": 89757,
+            "IsFavorite": false,
+            "HasChild":0
+        }
+    ]
+}

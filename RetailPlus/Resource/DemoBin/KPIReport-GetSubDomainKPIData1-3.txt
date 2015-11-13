@@ -1,0 +1,17 @@
+{
+    "Sign": null,
+    "Code": 0,
+    "Desc": "success",
+    "Data": [
+        {
+            "DomainID": "1-3-1",
+            "DomainName": "北京",
+            "Traffic": 288,
+            "TraQty": 92,
+            "ProQty": 100,
+            "Amount": 60000,
+            "IsFavorite": false,
+            "HasChild":1
+        }
+    ]
+}

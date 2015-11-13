@@ -1,0 +1,17 @@
+{
+    "Sign": null,
+    "Code": 0,
+    "Desc": null,
+    "Data": [
+    {
+        "UserId": "b7364a2b-ad42-4136-a3da-a9a6e63c870e",
+        "StoreId": "8b632084-86d7-401c-ab2c-a86023a51681",
+        "BrandName": "风尚广百",
+        "StoreName": "广州旗舰店",
+        "StoreThumb": "visual/StoreThumbnail_635356087482888011_3.jpg",
+        "ShopMap": "visual/Blueprint_635356087398229546.png",
+        "PendingCount": 2,
+        "RejectCount": 1
+    }
+    ]
+}

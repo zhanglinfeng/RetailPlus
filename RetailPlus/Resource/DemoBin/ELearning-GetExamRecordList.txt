@@ -1,0 +1,31 @@
+{
+    "Sign": null,
+    "Code": 0,
+    "Desc": "",
+    "Data": [
+    {
+        "Score": 10,
+        "ExamDate": "2014-08-01 12:26:42",
+        "PaperCode": "#01",
+        "PaperName": "数学期末考试"
+    },
+    {
+        "Score": 20,
+        "ExamDate": "2014-08-01 14:30:15",
+        "PaperCode": "#02",
+        "PaperName": "数学期中考试"
+    },
+    {
+        "Score": 30,
+        "ExamDate": "2014-08-01 14:08:51",
+        "PaperCode": "#03",
+        "PaperName": "语文期末考试"
+    },
+    {
+        "Score": 20,
+        "ExamDate": "2014-08-01 14:47:13",
+        "PaperCode": "#04",
+        "PaperName": "语文期中考试"
+    }
+    ]
+}

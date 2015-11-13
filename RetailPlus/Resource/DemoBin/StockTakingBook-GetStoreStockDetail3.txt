@@ -1,0 +1,333 @@
+{
+    "Sign": null,
+    "Code": 0,
+    "Desc": "",
+    "Data": [
+    {
+        "DetailId": "30203fe5-77f3-46c1-bbaf-5a50a104739b",
+        "StoreId": "14c6b043-e920-4af1-8834-d442b89a7ac8",
+        "SN": 3,
+        "Tag1": "Area A",
+        "Tag2": "hhj",
+        "Tag3": "kit",
+        "TagList": [
+        {
+            "Tag": "Area A"
+        },
+        {
+            "Tag": "hhj"
+        },
+        {
+            "Tag": "kit"
+        }
+        ],
+        "CountAmount": 0,
+        "LastAmount": 0,
+        "InAmount": 67,
+        "OutAmount": 0,
+        "Comments": null,
+        "CurrentList": [],
+        "IOList": [
+        {
+            "IOId": "d7ed6569-1b31-4c92-bacd-be62da5e7ee0",
+            "Type": 1,
+            "Count": 67,
+            "AddDate": "2014-08-06 16:55:39",
+            "userid": "b7364a2b-ad42-4136-a3da-a9a6e63c870e",
+            "Comments": "",
+            "UserDetail": {
+                "UserId": "b7364a2b-ad42-4136-a3da-a9a6e63c870e",
+                "ReportToId": "00000000-0000-0000-0000-000000000000",
+                "UserCode": "RP00002471",
+                "UserAcount": "13167280125",
+                "UserEmail": "linezhang@r-vision-group.com",
+                "ReportTo": "",
+                "FirstName": "kk",
+                "SurName": "yy",
+                "JoinDate": "2014-06-30 16:58:03",
+                "Birthday": "2014-06-30 16:58:03",
+                "BirthYear": null,
+                "BirthDate": null,
+                "IsPublicAge": false,
+                "Enterpise": "yy",
+                "Portrait": "http://192.168.1.245:7000/",
+                "OfficePhoneNumber": null,
+                "OfficeAddress": null,
+                "Gender": 2,
+                "IsLoginProtection": null,
+                "AlternatePhone": "",
+                "Interest": "",
+                "WorkEmail": "linezhang@r-vision-group.com",
+                "Title": "iit",
+                "Rank": 1,
+                "DomainName": null,
+                "RoleName": null
+            }
+        }
+        ],
+        "LastList": []
+    },
+    {
+        "DetailId": "aa34e588-f924-43f7-8ec5-5f3ba5e280eb",
+        "StoreId": "14c6b043-e920-4af1-8834-d442b89a7ac8",
+        "SN": 3,
+        "Tag1": "Area A",
+        "Tag2": "j",
+        "Tag3": "kl",
+        "TagList": [
+        {
+            "Tag": "Area A"
+        },
+        {
+            "Tag": "j"
+        },
+        {
+            "Tag": "kl"
+        }
+        ],
+        "CountAmount": 0,
+        "LastAmount": 0,
+        "InAmount": 0,
+        "OutAmount": 9,
+        "Comments": null,
+        "CurrentList": [],
+        "IOList": [
+        {
+            "IOId": "014ade90-554c-4324-9028-72be078914b6",
+            "Type": -1,
+            "Count": 9,
+            "AddDate": "2014-08-06 16:55:10",
+            "userid": "b7364a2b-ad42-4136-a3da-a9a6e63c870e",
+            "Comments": "",
+            "UserDetail": {
+                "UserId": "b7364a2b-ad42-4136-a3da-a9a6e63c870e",
+                "ReportToId": "00000000-0000-0000-0000-000000000000",
+                "UserCode": "RP00002471",
+                "UserAcount": "13167280125",
+                "UserEmail": "linezhang@r-vision-group.com",
+                "ReportTo": "",
+                "FirstName": "ww",
+                "SurName": "wr",
+                "JoinDate": "2014-06-30 16:58:03",
+                "Birthday": "2014-06-30 16:58:03",
+                "BirthYear": null,
+                "BirthDate": null,
+                "IsPublicAge": false,
+                "Enterpise": "eyqw­",
+                "Portrait": "http://192.168.1.245:7000/",
+                "OfficePhoneNumber": null,
+                "OfficeAddress": null,
+                "Gender": 2,
+                "IsLoginProtection": null,
+                "AlternatePhone": "",
+                "Interest": "",
+                "WorkEmail": "linezhang@r-vision-group.com",
+                "Title": "ey",
+                "Rank": 1,
+                "DomainName": null,
+                "RoleName": null
+            }
+        }
+        ],
+        "LastList": []
+    },
+    {
+        "DetailId": "4265be79-6994-4524-a329-83fff0510c04",
+        "StoreId": "14c6b043-e920-4af1-8834-d442b89a7ac8",
+        "SN": 3,
+        "Tag1": "Area A",
+        "Tag2": "",
+        "Tag3": "",
+        "TagList": [
+        {
+            "Tag": "Area A"
+        },
+        {
+            "Tag": ""
+        },
+        {
+            "Tag": ""
+        }
+        ],
+        "CountAmount": 666,
+        "LastAmount": 92,
+        "InAmount": 5,
+        "OutAmount": 0,
+        "Comments": null,
+        "CurrentList": [
+        {
+            "CountId": "b65533df-4561-4ff9-b28e-4ab1025ed031",
+            "Count": 666,
+            "AddDate": "2014-08-06 15:42:11",
+            "userid": "b7364a2b-ad42-4136-a3da-a9a6e63c870e",
+            "UserDetail": {
+                "UserId": "b7364a2b-ad42-4136-a3da-a9a6e63c870e",
+                "ReportToId": "00000000-0000-0000-0000-000000000000",
+                "UserCode": "RP00002471",
+                "UserAcount": "13167280125",
+                "UserEmail": "linezhang@r-vision-group.com",
+                "ReportTo": "",
+                "FirstName": "undefine",
+                "SurName": "undefine",
+                "JoinDate": "2014-06-30 16:58:03",
+                "Birthday": "2014-06-30 16:58:03",
+                "BirthYear": null,
+                "BirthDate": null,
+                "IsPublicAge": false,
+                "Enterpise": "undefine­",
+                "Portrait": "http://192.168.1.245:7000/",
+                "OfficePhoneNumber": null,
+                "OfficeAddress": null,
+                "Gender": 2,
+                "IsLoginProtection": null,
+                "AlternatePhone": "",
+                "Interest": "",
+                "WorkEmail": "linezhang@r-vision-group.com",
+                "Title": "undefine",
+                "Rank": 1,
+                "DomainName": null,
+                "RoleName": null
+            }
+        }
+        ],
+        "IOList": [
+        {
+            "IOId": "9e941803-1cec-4912-917f-216a2264f114",
+            "Type": 1,
+            "Count": 5,
+            "AddDate": "2014-08-06 15:42:02",
+            "userid": "b7364a2b-ad42-4136-a3da-a9a6e63c870e",
+            "Comments": "kk",
+            "UserDetail": {
+                "UserId": "b7364a2b-ad42-4136-a3da-a9a6e63c870e",
+                "ReportToId": "00000000-0000-0000-0000-000000000000",
+                "UserCode": "RP00002471",
+                "UserAcount": "13167280125",
+                "UserEmail": "linezhang@r-vision-group.com",
+                "ReportTo": "",
+                "FirstName": "undefine",
+                "SurName": "undefine",
+                "JoinDate": "2014-06-30 16:58:03",
+                "Birthday": "2014-06-30 16:58:03",
+                "BirthYear": null,
+                "BirthDate": null,
+                "IsPublicAge": false,
+                "Enterpise": "undefine",
+                "Portrait": "http://192.168.1.245:7000/",
+                "OfficePhoneNumber": null,
+                "OfficeAddress": null,
+                "Gender": 2,
+                "IsLoginProtection": null,
+                "AlternatePhone": "",
+                "Interest": "",
+                "WorkEmail": "linezhang@r-vision-group.com",
+                "Title": "undefine",
+                "Rank": 1,
+                "DomainName": null,
+                "RoleName": null
+            }
+        }
+        ],
+        "LastList": [
+        {
+            "CountId": "a83a4f2d-68f3-403b-a057-adced3c6ba3d",
+            "Count": 92,
+            "AddDate": "2014/8/6 15:41:36",
+            "userid": "b7364a2b-ad42-4136-a3da-a9a6e63c870e",
+            "UserDetail": {
+                "UserId": "b7364a2b-ad42-4136-a3da-a9a6e63c870e",
+                "ReportToId": "00000000-0000-0000-0000-000000000000",
+                "UserCode": "RP00002471",
+                "UserAcount": "13167280125",
+                "UserEmail": "linezhang@r-vision-group.com",
+                "ReportTo": "",
+                "FirstName": "undefine",
+                "SurName": "undefine",
+                "JoinDate": "2014-06-30 16:58:03",
+                "Birthday": "2014-06-30 16:58:03",
+                "BirthYear": null,
+                "BirthDate": null,
+                "IsPublicAge": false,
+                "Enterpise": "undefine­",
+                "Portrait": "http://192.168.1.245:7000/",
+                "OfficePhoneNumber": null,
+                "OfficeAddress": null,
+                "Gender": 2,
+                "IsLoginProtection": null,
+                "AlternatePhone": "",
+                "Interest": "",
+                "WorkEmail": "linezhang@r-vision-group.com",
+                "Title": "undefine",
+                "Rank": 1,
+                "DomainName": null,
+                "RoleName": null
+            }
+        }
+        ]
+    },
+    {
+        "DetailId": "93c56d0d-9352-4a58-af1c-a34b02e03976",
+        "StoreId": "14c6b043-e920-4af1-8834-d442b89a7ac8",
+        "SN": 3,
+        "Tag1": "Area A",
+        "Tag2": "red",
+        "Tag3": "man",
+        "TagList": [
+        {
+            "Tag": "Area A"
+        },
+        {
+            "Tag": "red"
+        },
+        {
+            "Tag": "man"
+        }
+        ],
+        "CountAmount": 0,
+        "LastAmount": 0,
+        "InAmount": 5,
+        "OutAmount": 0,
+        "Comments": null,
+        "CurrentList": [],
+        "IOList": [
+        {
+            "IOId": "7c86913c-4597-42a6-a335-853d6b464d74",
+            "Type": 1,
+            "Count": 5,
+            "AddDate": "2014-08-06 16:54:40",
+            "userid": "b7364a2b-ad42-4136-a3da-a9a6e63c870e",
+            "Comments": "JFK",
+            "UserDetail": {
+                "UserId": "b7364a2b-ad42-4136-a3da-a9a6e63c870e",
+                "ReportToId": "00000000-0000-0000-0000-000000000000",
+                "UserCode": "RP00002471",
+                "UserAcount": "13167280125",
+                "UserEmail": "linezhang@r-vision-group.com",
+                "ReportTo": "",
+                "FirstName": "undefine",
+                "SurName": "vundefine",
+                "JoinDate": "2014-06-30 16:58:03",
+                "Birthday": "2014-06-30 16:58:03",
+                "BirthYear": null,
+                "BirthDate": null,
+                "IsPublicAge": false,
+                "Enterpise": "undefine",
+                "Portrait": "http://192.168.1.245:7000/",
+                "OfficePhoneNumber": null,
+                "OfficeAddress": null,
+                "Gender": 2,
+                "IsLoginProtection": null,
+                "AlternatePhone": "",
+                "Interest": "",
+                "WorkEmail": "linezhang@r-vision-group.com",
+                "Title": "undefine",
+                "Rank": 1,
+                "DomainName": null,
+                "RoleName": null
+            }
+        }
+        ],
+        "LastList": []
+    }
+    ]
+}

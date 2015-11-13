@@ -1,0 +1,47 @@
+{
+    "Sign": null,
+    "Code": 0,
+    "Desc": "",
+    "Data": [
+    {
+        "SN": 1,
+        "OpenTime": "2014-08-01 10:41:51",
+        "CloseTime": "2014-08-06 15:41:04",
+        "CloseUserId": "b7364a2b-ad42-4136-a3da-a9a6e63c870e",
+        "CountAmount": 72,
+        "LastAmount": 0,
+        "InAmount": 0,
+        "OutAmount": 0,
+        "BalanceAmount": 0,
+        "Comments": "zhangsan",
+        "UserDetail": {
+            "UserId": "b7364a2b-ad42-4136-a3da-a9a6e63c870e",
+            "ReportToId": "00000000-0000-0000-0000-000000000000",
+            "UserCode": "RP00002471",
+            "UserAcount": "13167280125",
+            "UserEmail": "linezhang@r-vision-group.com",
+            "ReportTo": "",
+            "FirstName": "zhangsan",
+            "SurName": "zhangsan",
+            "JoinDate": "2014-06-30 16:58:03",
+            "Birthday": "2014-06-30 16:58:03",
+            "BirthYear": null,
+            "BirthDate": null,
+            "IsPublicAge": false,
+            "Enterpise": "zhangsan­",
+            "Portrait": "http://192.168.1.245:7000/",
+            "OfficePhoneNumber": null,
+            "OfficeAddress": null,
+            "Gender": 2,
+            "IsLoginProtection": null,
+            "AlternatePhone": "",
+            "Interest": "",
+            "WorkEmail": "linezhang@r-vision-group.com",
+            "Title": "zhangsan",
+            "Rank": 1,
+            "DomainName": null,
+            "RoleName": null
+        }
+    }
+    ]
+}

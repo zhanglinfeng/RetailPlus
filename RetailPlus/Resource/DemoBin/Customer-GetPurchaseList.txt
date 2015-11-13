@@ -1,0 +1,17 @@
+{
+    "Sign": "",
+    "Code": 0,
+    "Desc": "",
+    "Data": [
+        {
+            "PurchaseId": "a18c6c8e-4d58-4a4e-b603-1b39467d574c",
+            "ProductName": "swatch",
+            "ProductPrice": 2000,
+            "ProductQty": 10,
+            "ProductAmount": 10000,
+            "PurchaseDate": "2014-03-21",
+            "CustomerId": "0605b37c-5268-4f33-ba45-d611f2b41316",
+            "StoreId": "de035009-405a-4ae6-8db9-17ffdaa9baf8"
+        }
+    ]
+}

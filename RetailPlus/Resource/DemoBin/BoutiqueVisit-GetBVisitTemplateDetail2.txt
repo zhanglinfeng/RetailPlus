@@ -1,0 +1,204 @@
+{
+    "Sign": "",
+    "Code": 0,
+    "Desc": "",
+    "Data": [
+        {
+            "CategoryName": "清洁",
+            "TemplateItems": [
+                {
+                    "ItemId": "70fb2abc-000a-4804-9ba0-0a91d49c79e1",
+                    "ItemTitle": "内/外橱窗",
+                    "ItemDesc": "内/外橱窗无手印和水渍",
+                    "Weight":10
+                },
+                {
+                    "ItemId": "182be85c-40dd-4815-a9db-2bcd889921c9",
+                    "ItemTitle": "收银区",
+                    "ItemDesc": "收银区整洁有序",
+                    "Weight":10
+                },
+                {
+                    "ItemId": "9caebe3a-61f0-4509-83df-b37b048db48c",
+                    "ItemTitle": "地板",
+                    "ItemDesc": "地板干净、光亮",
+                    "Weight":10
+                },
+                {
+                    "ItemId": "39677092-36bf-438f-a25f-cbb10e89d556",
+                    "ItemTitle": "店铺角落",
+                    "ItemDesc": "店铺任何角落无明显垃圾",
+                    "Weight":10
+                }
+            ]
+        },
+        {
+            "CategoryName": "仪容仪表",
+            "TemplateItems": [
+                {
+                    "ItemId": "7e9b0980-60a4-45a6-a7f9-195cc544dcec",
+                    "ItemTitle": "员工发型",
+                    "ItemDesc": "短发：干净利索。长发：干净盘起",
+                    "Weight":10
+                },
+                {
+                    "ItemId": "f14ec6d8-b973-466f-a827-33f11f3d9b54",
+                    "ItemTitle": "指甲",
+                    "ItemDesc": "指甲干净长度适宜，甲油裸色或透明色",
+                    "Weight":10
+                }
+            ]
+        },
+        {
+            "CategoryName": "办公区域",
+            "TemplateItems": [
+                {
+                    "ItemId": "2006971a-fc3b-41bc-bb4f-69789eb9b855",
+                    "ItemTitle": "大门/金库钥匙",
+                    "ItemDesc": "店铺大门/金库钥匙合理分配保管",
+                    "Weight":10
+                },
+                {
+                    "ItemId": "f9115f27-d537-4889-8437-98d64d383f99",
+                    "ItemTitle": "销售桌",
+                    "ItemDesc": "销售桌内，销售工具摆放整齐",
+                    "Weight":10
+                },
+                {
+                    "ItemId": "9280c5d3-b827-4ba1-96ff-abad1804f248",
+                    "ItemTitle": "文件夹/公告栏",
+                    "ItemDesc": "文件夹/公告栏等保持干净，摆放有序",
+                    "Weight":10
+                },
+                {
+                    "ItemId": "1046929e-e559-408a-8c7b-abd80706a8c4",
+                    "ItemTitle": "销售单据/文具",
+                    "ItemDesc": "销售单据和文具用完归齐原位",
+                    "Weight":10
+                },
+                {
+                    "ItemId": "5a1ff6fd-863e-4cf4-b087-d1e2525809ab",
+                    "ItemTitle": "手机设备",
+                    "ItemDesc": "所有移动设备静音模式",
+                    "Weight":10
+                }
+            ]
+        },
+        {
+            "CategoryName": "清洁",
+            "TemplateItems": [
+                {
+                    "ItemId": "70fb2abc-000a-4804-9ba0-0a91d49c79e1",
+                    "ItemTitle": "内/外橱窗",
+                    "ItemDesc": "内/外橱窗无手印和水渍",
+                    "Weight":10
+                },
+                {
+                    "ItemId": "182be85c-40dd-4815-a9db-2bcd889921c9",
+                    "ItemTitle": "收银区",
+                    "ItemDesc": "收银区整洁有序",
+                    "Weight":10
+                },
+                {
+                    "ItemId": "9caebe3a-61f0-4509-83df-b37b048db48c",
+                    "ItemTitle": "地板",
+                    "ItemDesc": "地板干净、光亮",
+                    "Weight":10
+                },
+                {
+                    "ItemId": "39677092-36bf-438f-a25f-cbb10e89d556",
+                    "ItemTitle": "店铺角落",
+                    "ItemDesc": "店铺任何角落无明显垃圾",
+                    "Weight":10
+                }
+            ]
+        },
+        {
+            "CategoryName": "仪容仪表",
+            "TemplateItems": [
+                {
+                    "ItemId": "7e9b0980-60a4-45a6-a7f9-195cc544dcec",
+                    "ItemTitle": "员工发型",
+                    "ItemDesc": "短发：干净利索。长发：干净盘起",
+                    "Weight":10
+                },
+                {
+                    "ItemId": "f14ec6d8-b973-466f-a827-33f11f3d9b54",
+                    "ItemTitle": "指甲",
+                    "ItemDesc": "指甲干净长度适宜，甲油裸色或透明色",
+                    "Weight":10
+                }
+            ]
+        },
+        {
+            "CategoryName": "办公区域",
+            "TemplateItems": [
+                {
+                    "ItemId": "2006971a-fc3b-41bc-bb4f-69789eb9b855",
+                    "ItemTitle": "大门/金库钥匙",
+                    "ItemDesc": "店铺大门/金库钥匙合理分配保管",
+                    "Weight":10
+                },
+                {
+                    "ItemId": "f9115f27-d537-4889-8437-98d64d383f99",
+                    "ItemTitle": "销售桌",
+                    "ItemDesc": "销售桌内，销售工具摆放整齐",
+                    "Weight":10
+                },
+                {
+                    "ItemId": "9280c5d3-b827-4ba1-96ff-abad1804f248",
+                    "ItemTitle": "文件夹/公告栏",
+                    "ItemDesc": "文件夹/公告栏等保持干净，摆放有序",
+                    "Weight":10
+                },
+                {
+                    "ItemId": "1046929e-e559-408a-8c7b-abd80706a8c4",
+                    "ItemTitle": "销售单据/文具",
+                    "ItemDesc": "销售单据和文具用完归齐原位",
+                    "Weight":10
+                },
+                {
+                    "ItemId": "5a1ff6fd-863e-4cf4-b087-d1e2525809ab",
+                    "ItemTitle": "手机设备",
+                    "ItemDesc": "所有移动设备静音模式",
+                    "Weight":10
+                }
+            ]
+        },
+        {
+            "CategoryName": "培训指导",
+            "TemplateItems": [
+                {
+                    "ItemId": "6c1200c7-60b0-4d9b-aa05-77c0b856aa67",
+                    "ItemTitle": "品牌理念",
+                    "ItemDesc": "传达公司品牌理念及新的信息",
+                    "Weight":10
+                },
+                {
+                    "ItemId": "f1b5ab1d-0801-40f1-b079-832a49c675b9",
+                    "ItemTitle": "Roleplay",
+                    "ItemDesc": "演练员工微笑和欢迎顾客技巧",
+                    "Weight":10
+                },
+                {
+                    "ItemId": "2b2e0357-03cb-4ccb-b073-dff9e559c2b9",
+                    "ItemTitle": "Roleplay",
+                    "ItemDesc": "演练并回顾销售技巧和服务流程",
+                    "Weight":10
+                },
+                {
+                    "ItemId": "99890ea8-9988-409f-b373-e13c68dcec3c",
+                    "ItemTitle": "产品知识",
+                    "ItemDesc": "基础产品知识/回顾培训内容/销售数据分析",
+                    "Weight":10
+                },
+                {
+                    "ItemId": "fdc7580c-4b59-47d4-b131-fa600c9c6c39",
+                    "ItemTitle": "员工绩效",
+                    "ItemDesc": "绩效指标和员工任务完成表现分析",
+                    "Weight":10
+                }
+            ]
+        }
+    ]
+}

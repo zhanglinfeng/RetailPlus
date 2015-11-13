@@ -1,0 +1,52 @@
+{
+    "Sign": null,
+    "Code": 0,
+    "Desc": "success",
+    "Data": [
+        {
+            "AttachmentType": "销售技巧",
+            "Attachments": [
+                {
+                    "AttachmentId": "a6cedd4f-8701-4a34-a49b-0d6d61aa5a31",
+                    "AttachmentName": "你知道什么时间给客户打电话最好吗?",
+                    "AttachmentPath": "Attachments/学习资料_635314397009946762.pdf",
+                    "AttachmentType": "你知道什么时间给客户打电话最好吗?",
+                    "AthUrl": "学习资料_635314397009946762.pdf",
+                    "Creator": "Lucy Wang",
+                    "AddDate": "2014-03-26",
+                    "FileSize": "2.00"
+                }
+            ]
+        },
+        {
+            "AttachmentType": "办公软件",
+            "Attachments": [
+                {
+                    "AttachmentId": "a6cedd4f-8701-2213-a49b-0d6d61aa5a32",
+                    "AttachmentName": "创建数据透视表",
+                    "AttachmentPath": "Attachments/excel00201/index.html",
+                    "AttachmentType": "创建数据透视表",
+                    "AthUrl": "excel00201/index.html",
+                    "Creator": "Ronaldo Li",
+                    "AddDate": "2014-01-17",
+                    "FileSize": "1.00"
+                }
+            ]
+        },
+        {
+            "AttachmentType": "思维方式",
+            "Attachments": [
+                {
+                    "AttachmentId": "a6ce3d4f-8701-4a34-a49b-0d6d61aa5a55",
+                    "AttachmentName": "花苞刺",
+                    "AttachmentPath": "Attachments/hbc02140527/index.html",
+                    "AttachmentType": "花苞刺",
+                    "AthUrl": "hbc02140527/index.html",
+                    "Creator": "Michael Zhang",
+                    "AddDate": "2013-02-26",
+                    "FileSize": "3.00"
+                }
+            ]
+        }
+    ]
+}

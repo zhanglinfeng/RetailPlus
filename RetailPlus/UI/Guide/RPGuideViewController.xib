@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="5056" systemVersion="13E28" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none">
+    <dependencies>
+        <deployment defaultVersion="1552" identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="3733"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="RPGuideViewController">
+            <connections>
+                <outlet property="_arraw1" destination="cLd-0B-LU2" id="9zi-Sr-exN"/>
+                <outlet property="_arraw2" destination="CKZ-MW-A6p" id="sSE-db-jnq"/>
+                <outlet property="_arraw3" destination="rbD-Je-MTc" id="yT7-lZ-DrV"/>
+                <outlet property="_arraw4" destination="pOi-Do-CxB" id="6M7-iS-WlU"/>
+                <outlet property="_arraw5" destination="Yj4-ul-RLp" id="kdS-vD-07U"/>
+                <outlet property="_arraw6" destination="7EL-2T-LUU" id="ZNN-pY-TIL"/>
+                <outlet property="_btn1" destination="gbb-bc-Dsi" id="TYd-OS-rOc"/>
+                <outlet property="_btn2" destination="4mS-kX-L8e" id="cwK-py-lH8"/>
+                <outlet property="_btn3" destination="i7E-tF-hxv" id="6jK-td-n0E"/>
+                <outlet property="_btn4" destination="ppg-U3-KVZ" id="wzJ-tK-Q11"/>
+                <outlet property="_btn5" destination="ZTi-pZ-DQw" id="v2C-P0-sFb"/>
+                <outlet property="_btn6" destination="5RD-nh-RX2" id="hVy-Mk-ECW"/>
+                <outlet property="_ivDetail1" destination="UPK-QW-3h4" id="Hee-IR-GFl"/>
+                <outlet property="_ivDetail2" destination="p7n-rU-ORF" id="3vC-m2-Zih"/>
+                <outlet property="_ivDetail3" destination="CJD-Vb-osD" id="T37-E8-ovA"/>
+                <outlet property="_ivDetail4" destination="0JC-zC-ugL" id="7lv-O0-vK9"/>
+                <outlet property="_ivDetail5" destination="wqC-T9-V1D" id="24r-Wg-XSx"/>
+                <outlet property="_ivDetail6" destination="zcZ-j8-GYi" id="WqF-tT-0gh"/>
+                <outlet property="_pageCtrl" destination="YM5-x8-UNk" id="1SK-Ko-gfz"/>
+                <outlet property="_viewBody1" destination="Rex-yw-wZN" id="kXj-HF-S3X"/>
+                <outlet property="_viewBody2" destination="Yxf-xe-EKw" id="dgK-Cn-qhS"/>
+                <outlet property="_viewBody3" destination="CtI-Gi-oGE" id="VN3-cu-UlH"/>
+                <outlet property="_viewBody4" destination="cQB-QC-Rc4" id="bUI-2t-0qt"/>
+                <outlet property="_viewBody5" destination="W5u-Sg-LbM" id="ZIf-9i-gdf"/>
+                <outlet property="_viewBody6" destination="7p8-h2-JLh" id="XBH-zQ-9Z3"/>
+                <outlet property="view" destination="i5M-Pr-FkT" id="sfx-zR-JGt"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="i5M-Pr-FkT">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="480"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <imageView userInteractionEnabled="NO" contentMode="top" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="gabove.png" id="iie-95-6ia">
+                    <rect key="frame" x="0.0" y="0.0" width="320" height="44"/>
+                    <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMaxY="YES"/>
+                </imageView>
+                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="gnether.png" id="pg7-0v-XPU">
+                    <rect key="frame" x="0.0" y="438" width="320" height="42"/>
+                    <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMinY="YES"/>
+                </imageView>
+                <view alpha="0.75" contentMode="scaleToFill" id="gef-Sf-9F3">
+                    <rect key="frame" x="0.0" y="44" width="320" height="395"/>
+                    <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                    <color key="backgroundColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
+                </view>
+                <view contentMode="scaleToFill" id="bIa-2w-C1m">
+                    <rect key="frame" x="0.0" y="44" width="320" height="395"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxX="YES" flexibleMinY="YES" heightSizable="YES" flexibleMaxY="YES"/>
+                    <subviews>
+                        <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="gmenuarrow.png" id="cLd-0B-LU2">
+                            <rect key="frame" x="145" y="10" width="30" height="60"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                        </imageView>
+                        <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="gmsgcenterarrow.png" id="CKZ-MW-A6p">
+                            <rect key="frame" x="268" y="10" width="30" height="60"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxY="YES"/>
+                        </imageView>
+                        <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="gmainarrow.png" id="rbD-Je-MTc">
+                            <rect key="frame" x="31" y="318" width="30" height="60"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
+                        </imageView>
+                        <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="gaddbookarrow.png" id="pOi-Do-CxB">
+                            <rect key="frame" x="102" y="318" width="30" height="60"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
+                        </imageView>
+                        <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="gstorelistarrow.png" id="Yj4-ul-RLp">
+                            <rect key="frame" x="182" y="318" width="30" height="60"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMinY="YES"/>
+                        </imageView>
+                        <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="gsettingarrow.png" id="7EL-2T-LUU">
+                            <rect key="frame" x="253" y="318" width="30" height="60"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMinY="YES"/>
+                        </imageView>
+                        <view contentMode="scaleToFill" id="Rex-yw-wZN">
+                            <rect key="frame" x="11" y="32" width="298" height="323"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxX="YES" flexibleMinY="YES" flexibleMaxY="YES"/>
+                            <subviews>
+                                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="gmenu.png" id="UPK-QW-3h4">
+                                    <rect key="frame" x="0.0" y="0.0" width="298" height="323"/>
+                                    <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                                </imageView>
+                                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="KOV-hV-Ryn">
+                                    <rect key="frame" x="267" y="0.0" width="31" height="31"/>
+                                    <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxY="YES"/>
+                                    <state key="normal">
+                                        <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                    </state>
+                                    <connections>
+                                        <action selector="OnClose:" destination="-1" eventType="touchUpInside" id="Vj9-sS-bp2"/>
+                                    </connections>
+                                </button>
+                            </subviews>
+                            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                        </view>
+                        <view contentMode="scaleToFill" id="Yxf-xe-EKw">
+                            <rect key="frame" x="11" y="32" width="298" height="323"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxX="YES" flexibleMinY="YES" flexibleMaxY="YES"/>
+                            <subviews>
+                                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="gmsgcenter.png" id="p7n-rU-ORF">
+                                    <rect key="frame" x="0.0" y="0.0" width="298" height="323"/>
+                                    <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                                </imageView>
+                                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="bx1-jy-pLF">
+                                    <rect key="frame" x="267" y="0.0" width="31" height="31"/>
+                                    <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxY="YES"/>
+                                    <state key="normal">
+                                        <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                    </state>
+                                    <connections>
+                                        <action selector="OnClose:" destination="-1" eventType="touchUpInside" id="may-ob-fwz"/>
+                                    </connections>
+                                </button>
+                            </subviews>
+                            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                        </view>
+                        <view contentMode="scaleToFill" id="CtI-Gi-oGE">
+                            <rect key="frame" x="11" y="32" width="298" height="323"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxX="YES" flexibleMinY="YES" flexibleMaxY="YES"/>
+                            <subviews>
+                                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="gmain.png" id="CJD-Vb-osD">
+                                    <rect key="frame" x="0.0" y="0.0" width="298" height="323"/>
+                                    <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                                </imageView>
+                                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="PqO-Ae-Pyq">
+                                    <rect key="frame" x="267" y="0.0" width="31" height="31"/>
+                                    <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxY="YES"/>
+                                    <state key="normal">
+                                        <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                    </state>
+                                    <connections>
+                                        <action selector="OnClose:" destination="-1" eventType="touchUpInside" id="qgd-Ff-gWe"/>
+                                    </connections>
+                                </button>
+                            </subviews>
+                            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                        </view>
+                        <view contentMode="scaleToFill" id="cQB-QC-Rc4">
+                            <rect key="frame" x="11" y="32" width="298" height="323"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxX="YES" flexibleMinY="YES" flexibleMaxY="YES"/>
+                            <subviews>
+                                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="gaddbook.png" id="0JC-zC-ugL">
+                                    <rect key="frame" x="0.0" y="0.0" width="298" height="323"/>
+                                    <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                                </imageView>
+                                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="9PV-lQ-25X">
+                                    <rect key="frame" x="267" y="0.0" width="31" height="31"/>
+                                    <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxY="YES"/>
+                                    <state key="normal">
+                                        <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                    </state>
+                                    <connections>
+                                        <action selector="OnClose:" destination="-1" eventType="touchUpInside" id="hgz-IE-J00"/>
+                                    </connections>
+                                </button>
+                            </subviews>
+                            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                        </view>
+                        <view contentMode="scaleToFill" id="W5u-Sg-LbM">
+                            <rect key="frame" x="11" y="32" width="298" height="323"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxX="YES" flexibleMinY="YES" flexibleMaxY="YES"/>
+                            <subviews>
+                                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="gstorelist.png" id="wqC-T9-V1D">
+                                    <rect key="frame" x="0.0" y="0.0" width="298" height="323"/>
+                                    <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                                </imageView>
+                                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="PhI-wp-wty">
+                                    <rect key="frame" x="267" y="0.0" width="31" height="31"/>
+                                    <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxY="YES"/>
+                                    <state key="normal">
+                                        <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                    </state>
+                                    <connections>
+                                        <action selector="OnClose:" destination="-1" eventType="touchUpInside" id="Awa-dC-i3a"/>
+                                    </connections>
+                                </button>
+                            </subviews>
+                            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                        </view>
+                        <view contentMode="scaleToFill" id="7p8-h2-JLh">
+                            <rect key="frame" x="11" y="32" width="298" height="323"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxX="YES" flexibleMinY="YES" flexibleMaxY="YES"/>
+                            <subviews>
+                                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="gsetting.png" id="zcZ-j8-GYi">
+                                    <rect key="frame" x="0.0" y="0.0" width="298" height="323"/>
+                                    <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                                </imageView>
+                                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="MRn-26-4vy">
+                                    <rect key="frame" x="267" y="0.0" width="31" height="31"/>
+                                    <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxY="YES"/>
+                                    <state key="normal">
+                                        <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                    </state>
+                                    <connections>
+                                        <action selector="OnClose:" destination="-1" eventType="touchUpInside" id="uGO-qS-OMx"/>
+                                    </connections>
+                                </button>
+                            </subviews>
+                            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                        </view>
+                        <pageControl opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" numberOfPages="6" id="YM5-x8-UNk">
+                            <rect key="frame" x="141" y="300" width="39" height="37"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxX="YES" flexibleMinY="YES" flexibleMaxY="YES"/>
+                            <color key="pageIndicatorTintColor" white="0.29667541060000002" alpha="1" colorSpace="calibratedWhite"/>
+                            <color key="currentPageIndicatorTintColor" red="0.0" green="0.50196081400000003" blue="0.50196081400000003" alpha="1" colorSpace="calibratedRGB"/>
+                        </pageControl>
+                    </subviews>
+                    <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                </view>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="gbb-bc-Dsi">
+                    <rect key="frame" x="114" y="0.0" width="93" height="44"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    <state key="normal" image="gundo2.png">
+                        <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                    </state>
+                    <state key="selected" image="gdone2.png"/>
+                    <connections>
+                        <action selector="OnTask:" destination="-1" eventType="touchUpInside" id="Ryx-5a-sJ5"/>
+                    </connections>
+                </button>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="4mS-kX-L8e">
+                    <rect key="frame" x="234" y="0.0" width="93" height="44"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxY="YES"/>
+                    <state key="normal" image="gundo1-2.png">
+                        <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                    </state>
+                    <state key="selected" image="gdone1-2.png"/>
+                    <connections>
+                        <action selector="OnTask:" destination="-1" eventType="touchUpInside" id="NbA-Rd-zXy"/>
+                    </connections>
+                </button>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="i7E-tF-hxv">
+                    <rect key="frame" x="0.0" y="438" width="80" height="42"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
+                    <state key="normal" image="gundo1-1.png">
+                        <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                    </state>
+                    <state key="selected" image="gdone1-1.png"/>
+                    <connections>
+                        <action selector="OnTask:" destination="-1" eventType="touchUpInside" id="D3y-ex-cSn"/>
+                    </connections>
+                </button>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="ppg-U3-KVZ">
+                    <rect key="frame" x="80" y="438" width="80" height="42"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
+                    <state key="normal" image="gundo1-1.png">
+                        <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                    </state>
+                    <state key="selected" image="gdone1-1.png"/>
+                    <connections>
+                        <action selector="OnTask:" destination="-1" eventType="touchUpInside" id="yhf-Qj-nhy"/>
+                    </connections>
+                </button>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="ZTi-pZ-DQw">
+                    <rect key="frame" x="160" y="438" width="80" height="42"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMinY="YES"/>
+                    <state key="normal" image="gundo1-1.png">
+                        <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                    </state>
+                    <state key="selected" image="gdone1-1.png"/>
+                    <connections>
+                        <action selector="OnTask:" destination="-1" eventType="touchUpInside" id="Nzr-cQ-DW3"/>
+                    </connections>
+                </button>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="5RD-nh-RX2">
+                    <rect key="frame" x="240" y="438" width="80" height="42"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMinY="YES"/>
+                    <state key="normal" image="gundo1-1.png">
+                        <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                    </state>
+                    <state key="selected" image="gdone1-1.png"/>
+                    <connections>
+                        <action selector="OnTask:" destination="-1" eventType="touchUpInside" id="hCL-Fp-LTi"/>
+                    </connections>
+                </button>
+            </subviews>
+            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+            <simulatedStatusBarMetrics key="simulatedStatusBarMetrics"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="gabove.png" width="320" height="44"/>
+        <image name="gaddbook.png" width="298" height="323"/>
+        <image name="gaddbookarrow.png" width="30" height="60"/>
+        <image name="gdone1-1.png" width="80" height="42"/>
+        <image name="gdone1-2.png" width="80" height="44"/>
+        <image name="gdone2.png" width="93" height="44"/>
+        <image name="gmain.png" width="298" height="323"/>
+        <image name="gmainarrow.png" width="30" height="60"/>
+        <image name="gmenu.png" width="298" height="323"/>
+        <image name="gmenuarrow.png" width="30" height="60"/>
+        <image name="gmsgcenter.png" width="298" height="323"/>
+        <image name="gmsgcenterarrow.png" width="30" height="60"/>
+        <image name="gnether.png" width="320" height="42"/>
+        <image name="gsetting.png" width="298" height="323"/>
+        <image name="gsettingarrow.png" width="30" height="60"/>
+        <image name="gstorelist.png" width="298" height="323"/>
+        <image name="gstorelistarrow.png" width="30" height="60"/>
+        <image name="gundo1-1.png" width="80" height="42"/>
+        <image name="gundo1-2.png" width="80" height="44"/>
+        <image name="gundo2.png" width="93" height="44"/>
+    </resources>
+</document>

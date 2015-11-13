@@ -1,0 +1,27 @@
+@charset "utf-8";
+/* CSS Document */
+
+video,img{
+	display:block;
+	margin: 0 auto;
+	}
+
+/*body*/
+#body{text-align:center; padding: 0; margin:0;}
+#container{width:98%; margin:0 auto; background-color:#FFFFFF; padding:0; }
+
+/*header*/
+/* 
+line-height:25px;
+*/
+
+#maincontent{text-align:center; padding: 0; margin:0;}
+.pic{text-align:center;line-height: 0; padding:0;}
+#video{
+	width:100%;
+	text-align:center;
+	background: url(../img/c08_web-03.jpg);
+	background-size:100% 100%;
+	margin: 0 auto;
+	padding:0;
+}

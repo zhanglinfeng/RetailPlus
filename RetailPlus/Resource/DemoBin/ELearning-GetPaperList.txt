@@ -1,0 +1,35 @@
+{
+    "Sign": null,
+    "Code": 0,
+    "Desc": null,
+    "Data": [
+        {
+            "PaperTag": "数学试卷",
+            "Papers": [
+                {
+                    "PaperId": "1",
+                    "PaperCode": "#01",
+                    "PaperName": "2013-2014年度数学期末考试",
+                    "PaperDesc": "检测学生本学期对所学知识掌握程度",
+                    "PaperTip": "提醒:请在良好的网络环境下进行考试",
+                    "LatestScore": -1,
+                    "PaperTag": "数学试卷"
+                }
+            ]
+        },
+        {
+            "PaperTag": "语文试卷",
+            "Papers": [
+                {
+                    "PaperId": "2",
+                    "PaperCode": "#02",
+                    "PaperName": "2013-2014年度数学期末考试",
+                    "PaperDesc": "检测学生本学期对所学知识掌握程度",
+                    "PaperTip": "提醒:请在良好的网络环境下进行考试",
+                    "LatestScore": 99,
+                    "PaperTag": "语文试卷"
+                }
+            ]
+        }
+    ]
+}

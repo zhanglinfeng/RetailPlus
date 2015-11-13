@@ -1,0 +1,20 @@
+{
+    "Sign": null,
+    "Code": 0,
+    "Desc": "",
+    "Data": [
+    {
+        "SN": 3,
+        "OpenTime": "2014/8/6 15:41:40",
+        "CloseTime": null,
+        "CloseUserId": "00000000-0000-0000-0000-000000000000",
+        "CountAmount": 666,
+        "LastAmount": 92,
+        "InAmount": 5,
+        "OutAmount": 0,
+        "BalanceAmount": 92,
+        "Comments": null,
+        "UserDetail": null
+    }
+    ]
+}
